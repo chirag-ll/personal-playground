@@ -1,26 +1,44 @@
 'use client';
 
+import { useEffect } from 'react';
 import * as LiveLike from '@livelike/custom-widgets';
-import '@livelike/custom-widgets/dist/livelike.css';
-import { useEffect, useState } from 'react';
 
+import '@livelike/custom-widgets/dist/livelike.css';
+import { useState } from 'react';
 
 export default function CustomWidgetsPage() {
-    const [sdkLoaded, setSdkLoaded] = useState(false);
 
-    const loadLiveLikeSdk = () => {
-        LiveLike.LiveLikeInit({ clientId: 'cE5S4ztbPU0DkDL0kedg3TiyGVXb5uDg7KvPYlRm' });
-        setSdkLoaded(true);
-    }
+  const [loadSlider, setLoadSlider] = useState(false);
 
-    useEffect(() => {
-        loadLiveLikeSdk();
-    }, []);
+  const loadLiveLikeSdk = async () => {
+    await LiveLike.LiveLikeInit({ clientId: '1GyP2ySBErUSVPkaaAMBx5OvGBv6d2yu0gc0lG79' });
+    setLoadSlider(true);
+  }
 
-    return (
+  useEffect(() => {
+    loadLiveLikeSdk().then(() => {
+      setLoadSlider(true);
+    });
+  }, []);
+
+  return (
+    loadSlider ?
+      <div>
         <cheer-meter
-            widgetid="a5b190e7-b9a6-4b5e-841e-35013a435896"
-            kind="cheer-meter"
+          widgetid='c4163097-a439-421a-a040-42454bac4e16'
+          kind="cheer-meter"
         ></cheer-meter>
-    )
+        <circular-predictor
+          widgetid="6377ec85-4bfb-4d79-8b12-048f87ade053"
+        ></circular-predictor>
+        <emoji-slider
+          widgetid="e2c51c4c-a5da-4523-afe8-d8489d78cf50"
+          kind="emoji-slider" />
+        <text-poll
+          widgetid="bc81f45e-b1e3-44af-a4b8-75fff61985ad"
+          kind="text-poll"
+        />
+      </div>
+      : <p>Loading...</p>
+  );
 }

@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@livelike/custom-widgets": "^1.0.0",
+    "@livelike/custom-widgets": "^1.1.3",
     "@livelike/engagementsdk": "^2.59.1-alpha.0",
     "jwt-encode": "^1.0.1",
     "next": "^16.1.6",
