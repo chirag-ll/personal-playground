@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" font-family="Segoe UI, Arial, sans-serif">
+  <defs>
+    <filter id="shadow" x="-4%" y="-4%" width="108%" height="108%">
+      <feDropShadow dx="1" dy="2" stdDeviation="3" flood-opacity="0.1"/>
+    </filter>
+    <marker id="arr" viewBox="0 0 10 6" refX="10" refY="3" markerWidth="8" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,3 L0,6 Z" fill="#64748b"/>
+    </marker>
+    <marker id="arr-back" viewBox="0 0 10 6" refX="0" refY="3" markerWidth="8" markerHeight="6" orient="auto">
+      <path d="M10,0 L0,3 L10,6 Z" fill="#64748b"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="480" rx="12" fill="#f8fafc"/>
+
+  <!-- ===== BLUECONIC (Top Right) ===== -->
+  <rect x="700" y="20" width="200" height="65" rx="12" fill="#faf5ff" stroke="#9333ea" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="800" y="48" text-anchor="middle" font-size="13" font-weight="700" fill="#7e22ce">BlueConic</text>
+  <text x="800" y="66" text-anchor="middle" font-size="9" fill="#9333ea">Receives: Name, Email, College</text>
+  <text x="800" y="78" text-anchor="middle" font-size="8" fill="#a855f7">No interaction data shared</text>
+
+  <!-- ===== USER ===== -->
+  <rect x="40" y="150" width="120" height="90" rx="12" fill="#ffffff" stroke="#94a3b8" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="100" y="185" text-anchor="middle" font-size="26">👤</text>
+  <text x="100" y="218" text-anchor="middle" font-size="12" font-weight="600" fill="#0f172a">User</text>
+
+  <!-- ===== MINUTEMEDIA ===== -->
+  <rect x="220" y="120" width="220" height="200" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="330" y="147" text-anchor="middle" font-size="13" font-weight="700" fill="#1e40af">MinuteMedia Platform</text>
+
+  <rect x="248" y="163" width="164" height="50" rx="8" fill="#dbeafe" stroke="#93c5fd" stroke-width="1.2" stroke-dasharray="5,3"/>
+  <text x="330" y="186" text-anchor="middle" font-size="11" font-weight="600" fill="#1d4ed8">iFrame</text>
+  <text x="330" y="203" text-anchor="middle" font-size="9" fill="#3b82f6">Hosts LiveLike Page</text>
+
+  <rect x="248" y="227" width="164" height="42" rx="8" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.2"/>
+  <text x="330" y="247" text-anchor="middle" font-size="11" font-weight="600" fill="#15803d">localStorage</text>
+  <text x="330" y="262" text-anchor="middle" font-size="8" fill="#166534">Flag, Profile, Token</text>
+
+  <!-- ===== LIVELIKE ===== -->
+  <rect x="500" y="120" width="460" height="320" rx="12" fill="#fefce8" stroke="#ca8a04" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="730" y="147" text-anchor="middle" font-size="14" font-weight="700" fill="#854d0e">LiveLike</text>
+
+  <!-- Row 1 inside LL -->
+  <rect x="530" y="170" width="140" height="50" rx="8" fill="#fff" stroke="#eab308" stroke-width="1.2"/>
+  <text x="600" y="193" text-anchor="middle" font-size="11" font-weight="600" fill="#713f12">Web Page</text>
+  <text x="600" y="208" text-anchor="middle" font-size="9" fill="#a16207">Entry Point</text>
+
+  <rect x="700" y="170" width="120" height="50" rx="8" fill="#fff" stroke="#eab308" stroke-width="1.2"/>
+  <text x="760" y="193" text-anchor="middle" font-size="11" font-weight="600" fill="#713f12">Form</text>
+  <text x="760" y="208" text-anchor="middle" font-size="9" fill="#a16207">Name, Email, College</text>
+
+  <rect x="850" y="170" width="90" height="50" rx="8" fill="#fff" stroke="#eab308" stroke-width="1.2"/>
+  <text x="895" y="193" text-anchor="middle" font-size="11" font-weight="600" fill="#713f12">Backend</text>
+  <text x="895" y="208" text-anchor="middle" font-size="9" fill="#a16207">API</text>
+
+  <!-- Row 2 inside LL -->
+  <rect x="530" y="250" width="140" height="50" rx="8" fill="#fff" stroke="#eab308" stroke-width="1.2"/>
+  <text x="600" y="273" text-anchor="middle" font-size="11" font-weight="600" fill="#713f12">Bracket Challenge</text>
+  <text x="600" y="288" text-anchor="middle" font-size="9" fill="#a16207">Leaderboard + Points</text>
+
+  <rect x="700" y="250" width="120" height="50" rx="8" fill="#fff" stroke="#eab308" stroke-width="1.2"/>
+  <text x="760" y="273" text-anchor="middle" font-size="11" font-weight="600" fill="#713f12">Database</text>
+  <text x="760" y="288" text-anchor="middle" font-size="9" fill="#a16207">All Interactions</text>
+
+  <rect x="850" y="250" width="90" height="50" rx="8" fill="#fff" stroke="#eab308" stroke-width="1.2"/>
+  <text x="895" y="273" text-anchor="middle" font-size="11" font-weight="600" fill="#713f12">Profiles</text>
+  <text x="895" y="288" text-anchor="middle" font-size="9" fill="#a16207">Custom Data</text>
+
+  <!-- Row 3 inside LL — Analytics -->
+  <rect x="640" y="340" width="220" height="50" rx="8" fill="#fff" stroke="#eab308" stroke-width="1.2"/>
+  <text x="750" y="363" text-anchor="middle" font-size="11" font-weight="600" fill="#713f12">Analytics Dashboard</text>
+  <text x="750" y="378" text-anchor="middle" font-size="9" fill="#a16207">Custom reporting per MinuteMedia inputs</text>
+
+  <!-- ===== CONNECTIONS ===== -->
+
+  <!-- User ↔ MinuteMedia -->
+  <line x1="160" y1="195" x2="216" y2="195" stroke="#64748b" stroke-width="1.8" marker-end="url(#arr)" marker-start="url(#arr-back)"/>
+
+  <!-- iFrame ↔ LiveLike Web Page -->
+  <line x1="412" y1="188" x2="526" y2="188" stroke="#64748b" stroke-width="1.8" marker-end="url(#arr)" marker-start="url(#arr-back)"/>
+
+  <!-- Web Page → Form -->
+  <line x1="670" y1="195" x2="696" y2="195" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Form → Backend -->
+  <line x1="820" y1="195" x2="846" y2="195" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Backend → Profiles -->
+  <line x1="895" y1="220" x2="895" y2="246" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Bracket ↔ Database -->
+  <line x1="670" y1="275" x2="696" y2="275" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)" marker-start="url(#arr-back)"/>
+
+  <!-- Database → Analytics (straight down) -->
+  <line x1="760" y1="300" x2="760" y2="336" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Form → BlueConic (straight up) -->
+  <line x1="760" y1="170" x2="760" y2="130" stroke="none"/>
+  <path d="M760,170 L760,130 L800,130 L800,89" fill="none" stroke="#64748b" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="820" y="118" font-size="9" fill="#64748b">Registration</text>
+  <text x="820" y="129" font-size="9" fill="#64748b">data</text>
+
+  <!-- localStorage ↔ LiveLike (dashed) -->
+  <path d="M412,248 Q470,248 470,195 Q470,188 526,188" fill="none" stroke="#64748b" stroke-width="1.2" stroke-dasharray="4,3"/>
+</svg>

@@ -1,7 +1,15 @@
 const sign = require('jwt-encode');
-claims = {
-    "iss": 'dDemb1AdFwYtoGsNuH5NKNrXBA7ldTtvZFmNIOtF',
-    "iat": 1768489264,
-    "custom_profile_id": "260105004309339450438686",
+
+function getUnixTimestampUTC() {
+  return Math.floor(new Date().getTime() / 1000);
 }
-console.log(sign(claims, "y5An9fnf3uoPspC4GDqkYDyOFcxcIzqwSrxSFMwbWhtvCerC6ubKMWuBqFfA634aVR9okORXn0fWB6tXXE1DMFaNOVs6UvqHz6AgwAh734Mpv87Xp0YezNCnqvN6igiF", algorithm="HS256"));
+
+const claims = {
+    "iss": 'YJVvlOml1AhFVNkRm9gwKAgE3iP0fmBjmct2v0oh',
+    "iat": 1772112428,
+    "custom_profile_id": "testing-custom-api",
+}
+
+const serie_a_client_secret = "Ryv7Sn4GN1CUdNYItCnR1H7NFCS8mgU3Opki-Q9c5r5e-DEPybBklw"; 
+
+console.log(sign(claims, serie_a_client_secret, algorithm="HS256"));
