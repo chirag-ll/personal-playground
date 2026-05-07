@@ -1,0 +1,40 @@
+<!-- https://unpkg.com/@livelike/engagementsdk@2.59.0/livelike.umd.js -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>LiveLike Test</title>
+    <style>
+        livelike-widgets {
+            display: block;
+            min-height: 300px;
+            width: 100%;
+            max-width: 500px;
+            margin: 20px auto;
+            border: 2px solid red;
+            padding: 12px;
+        }
+    </style>
+</head>
+<body>
+    <livelike-widgets mode="timeline"></livelike-widgets>
+
+    <script src="https://unpkg.com/@livelike/engagementsdk@2.59.0/livelike.umd.js"></script>
+    <script>
+        LiveLike.init({ clientId: 'cE5S4ztbPU0DkDL0kedg3TiyGVXb5uDg7KvPYlRm' })
+            .then(() => {
+                const widgetContainer = document.querySelector('livelike-widgets');
+                widgetContainer.createWidgetElement({kind: 'text-poll', id: '38d9d43f-3d6a-4114-86fa-e83f2f62c700' });
+
+
+                LiveLike.getWidget({
+                    kind: 'text-poll',
+                    id: '38d9d43f-3d6a-4114-86fa-e83f2f62c700'
+                }).then(widgetPayload => {
+                    console.log('widgetPayload:', widgetPayload);
+                    return widgetContainer.showWidget({ widgetPayload });
+                });
+            });
+    </script>
+</body>
+</html>

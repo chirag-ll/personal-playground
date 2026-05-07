@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "metabase": {
+      "command": "npx",
+      "args": ["@cognitionai/metabase-mcp-server"],
+      "env": {
+        "METABASE_URL": "https://metabase.livelikecdn.com",
+        "METABASE_API_KEY": "mb_HbckrwKdgo2UWCre6fhpDs1qotbpt8VeeJvH9ugz+V4="
+      }
+    }
+  }
+}

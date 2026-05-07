@@ -1,0 +1,42 @@
+class ViewController: UIViewController {
+    var engagementSDK: EngagementSDK!
+    //Creating the Widget and Chat ViewControllers
+    let widgetViewController = WidgetPopupViewController()
+    //Holding a reference to the session to keep it valid
+    var session: ContentSession?
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+                
+        var config = LiveLikeConfig(clientID: "_CLIENT_ID_")
+        config.accessTokenStorage = CTokenStorage()
+
+        engagementSDK = EngagementSDK(config: config)
+        // Adding widgetViewController as child view controller
+        addChild(widgetViewController)
+        self.view.addSubview(widgetViewController.view)
+        widgetViewController.didMove(toParent: self)
+        
+        // Applying constraints to fill the container
+        widgetViewController.view.translatesAutoresizingMaskIntoConstraints = false
+        NSLayoutConstraint.activate([
+            widgetViewController.view.bottomAnchor.constraint(equalTo: self.view.safeAreaLayoutGuide.bottomAnchor),
+            widgetViewController.view.topAnchor.constraint(equalTo: self.view.safeAreaLayoutGuide.topAnchor),
+            widgetViewController.view.trailingAnchor.constraint(equalTo: self.view.trailingAnchor),
+            widgetViewController.view.leadingAnchor.constraint(equalTo: self.view.leadingAnchor)
+        ])
+        
+        //Creating a Content Session
+        let sessionConfig = SessionConfiguration(programID: "_PROGRAM_ID_")
+        session = engagementSDK.contentSession(config: sessionConfig)
+
+       // Applying the Content Session to the Widget and Chat ViewControllers
+        widgetViewController.session = session
+    }
+
+    //Ending a session
+    override func viewDidDisappear(_ animated: Bool) {
+        super.viewDidDisappear(animated)
+        self.session?.close()
+    }
+}
