@@ -1,0 +1,4838 @@
+[
+  {
+    "success": true,
+    "file": "BENSEBAINI Ramy_395113_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------4912a270138e0c6c5c0f49dd"
+      },
+      "body": {
+        "filename": "BENSEBAINI Ramy_395113_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Algeria - BENSEBAINI Ramy_395113_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "0afd54bf-7861-4e5a-bfbf-f3a9f5504ce0",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/0afd54bf-7861-4e5a-bfbf-f3a9f5504ce0/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:28.642337Z",
+        "description": "Algeria - BENSEBAINI Ramy_395113_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/0c8125da-7081-4077-8f68-4032cdfe558d.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "BOUDAOUI Hicham_441350_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------ee431cede6e291db9734594c"
+      },
+      "body": {
+        "filename": "BOUDAOUI Hicham_441350_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Algeria - BOUDAOUI Hicham_441350_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "ccd8746e-b4b1-46ee-a9da-47bc53d140a9",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/ccd8746e-b4b1-46ee-a9da-47bc53d140a9/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:29.329268Z",
+        "description": "Algeria - BOUDAOUI Hicham_441350_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/c2a07894-c16a-4564-a13c-3b9d1c2467db.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "GOUIRI Amine_405877_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------1f90d182b1d1193d11a6704f"
+      },
+      "body": {
+        "filename": "GOUIRI Amine_405877_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Algeria - GOUIRI Amine_405877_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "6158823f-bea4-451c-8466-523379a76c7a",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/6158823f-bea4-451c-8466-523379a76c7a/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:29.960940Z",
+        "description": "Algeria - GOUIRI Amine_405877_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/bcd869d7-cf5d-4026-bff0-99b044ed13ba.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "MAHREZ Riyad_379942_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------3cb087f751679e2b5ee6676e"
+      },
+      "body": {
+        "filename": "MAHREZ Riyad_379942_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Algeria - MAHREZ Riyad_379942_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "22d56a36-2f8c-47d3-be26-f969869440a4",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/22d56a36-2f8c-47d3-be26-f969869440a4/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:30.860964Z",
+        "description": "Algeria - MAHREZ Riyad_379942_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/5b2d2b88-d51f-4bef-b737-9dd0d4bd6906.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "ZIZO_431858_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------800b7641d811e9954e8d813c"
+      },
+      "body": {
+        "filename": "ZIZO_431858_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Algeria - ZIZO_431858_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "827cbdfd-9995-44ad-b06e-32b35d433756",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/827cbdfd-9995-44ad-b06e-32b35d433756/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:31.704017Z",
+        "description": "Algeria - ZIZO_431858_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/7f5000d6-110a-48ce-9af1-fbc1b20483ce.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "ALVAREZ Julian_416081_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------31ceea0bfcc799518e0d48df"
+      },
+      "body": {
+        "filename": "ALVAREZ Julian_416081_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Argentina - ALVAREZ Julian_416081_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "cb9e0b78-43ff-4f41-965f-663330d28f69",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/cb9e0b78-43ff-4f41-965f-663330d28f69/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:32.409628Z",
+        "description": "Argentina - ALVAREZ Julian_416081_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/e3cb517c-fa02-4ce4-9a64-07d164e12384.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "FERNANDEZ Enzo_448252_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------186acd08150da2f6018b6757"
+      },
+      "body": {
+        "filename": "FERNANDEZ Enzo_448252_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Argentina - FERNANDEZ Enzo_448252_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "e7dbbb5b-4a89-4b1b-84cc-f161ea8fcbd5",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/e7dbbb5b-4a89-4b1b-84cc-f161ea8fcbd5/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:33.139363Z",
+        "description": "Argentina - FERNANDEZ Enzo_448252_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/08c97130-cba9-4586-8813-151bac458ba4.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "MARTINEZ Lautaro_402920_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------10e609fd8498ca0dc5d72aa7"
+      },
+      "body": {
+        "filename": "MARTINEZ Lautaro_402920_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Argentina - MARTINEZ Lautaro_402920_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "d7ebf9e9-55ea-462f-b571-9bd9d6e827d4",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/d7ebf9e9-55ea-462f-b571-9bd9d6e827d4/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:33.887379Z",
+        "description": "Argentina - MARTINEZ Lautaro_402920_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/8376471d-8acb-4de8-b6d1-8975e2e6a656.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "MESSI Lionel_229397_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------10b3b802e9aecd060131b0ad"
+      },
+      "body": {
+        "filename": "MESSI Lionel_229397_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Argentina - MESSI Lionel_229397_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "437362fc-91fa-4fc9-a734-0072053897bf",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/437362fc-91fa-4fc9-a734-0072053897bf/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:34.472063Z",
+        "description": "Argentina - MESSI Lionel_229397_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/cc2c3e44-ee21-4252-9734-6bbab5153c16.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "PAREDES Leandro_332847_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------8a29a7bd466db32fd913a62a"
+      },
+      "body": {
+        "filename": "PAREDES Leandro_332847_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Argentina - PAREDES Leandro_332847_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "81737f79-a1a5-4dce-a3f2-25fdbaa632c8",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/81737f79-a1a5-4dce-a3f2-25fdbaa632c8/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:35.477829Z",
+        "description": "Argentina - PAREDES Leandro_332847_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/72919431-17ef-4734-9a7b-b183f3681e7e.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "BOS Jordan_423522_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------868a693e8d4463257115925d"
+      },
+      "body": {
+        "filename": "BOS Jordan_423522_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Australia - BOS Jordan_423522_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "5444b34f-8793-4f35-a558-022aa2c1d083",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/5444b34f-8793-4f35-a558-022aa2c1d083/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:36.038506Z",
+        "description": "Australia - BOS Jordan_423522_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/890a9c8d-2658-49d8-9e2e-a1b738252cbd.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "IRVINE Jackson_355775_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------49ba35cae06c593c971ba112"
+      },
+      "body": {
+        "filename": "IRVINE Jackson_355775_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Australia - IRVINE Jackson_355775_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "af9c27c5-ef28-473d-a257-266ca454b14b",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/af9c27c5-ef28-473d-a257-266ca454b14b/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:36.837729Z",
+        "description": "Australia - IRVINE Jackson_355775_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/3445fae7-e08f-4eee-9a70-2eff377462af.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "LECKIE Mathew_321697_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------0191db3fcdc086c54d8c49ee"
+      },
+      "body": {
+        "filename": "LECKIE Mathew_321697_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Australia - LECKIE Mathew_321697_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "91a1e2a0-2ed4-4dd2-b449-c71dd2669375",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/91a1e2a0-2ed4-4dd2-b449-c71dd2669375/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:37.662016Z",
+        "description": "Australia - LECKIE Mathew_321697_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/237468fa-4233-4021-a7c0-83e3e4da5755.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "SOUTTAR Harry_430442_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------9d1e3cb3479f84b86c95237f"
+      },
+      "body": {
+        "filename": "SOUTTAR Harry_430442_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Australia - SOUTTAR Harry_430442_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "0ee3543d-9de6-4a14-9efd-93717c5143ba",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/0ee3543d-9de6-4a14-9efd-93717c5143ba/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:38.572836Z",
+        "description": "Australia - SOUTTAR Harry_430442_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/36fb91f2-cae9-4244-a75d-8a98b5c65cac.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "TOURE Mohamed_498806_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------79d6028be7f64d09997bca9f"
+      },
+      "body": {
+        "filename": "TOURE Mohamed_498806_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Australia - TOURE Mohamed_498806_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "dea6c093-6050-41dd-89bb-96203e202449",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/dea6c093-6050-41dd-89bb-96203e202449/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:39.233568Z",
+        "description": "Australia - TOURE Mohamed_498806_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/c3c9dd0f-543d-465e-b52f-5e82b9128099.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "ALABA David_316002_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------492dcd60e59ecc88576aee40"
+      },
+      "body": {
+        "filename": "ALABA David_316002_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Austria - ALABA David_316002_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "22631e8c-6846-4b29-85ab-b063b30ef8a4",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/22631e8c-6846-4b29-85ab-b063b30ef8a4/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:40.131044Z",
+        "description": "Austria - ALABA David_316002_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/27e748eb-fd45-44c1-a59b-6f40988008a5.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "ARNAUTOVIC Marko_299200_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------c186490d2587d0a55946caee"
+      },
+      "body": {
+        "filename": "ARNAUTOVIC Marko_299200_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Austria - ARNAUTOVIC Marko_299200_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "26a1f5c2-5dda-4472-aef0-9898341b5b22",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/26a1f5c2-5dda-4472-aef0-9898341b5b22/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:40.815642Z",
+        "description": "Austria - ARNAUTOVIC Marko_299200_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/64a4723b-8afa-4596-a627-e691f2fedf47.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "GRILLITSCH Florian_385248_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------94675e0257c5315ad804e80d"
+      },
+      "body": {
+        "filename": "GRILLITSCH Florian_385248_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Austria - GRILLITSCH Florian_385248_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "08047295-5fb7-4922-8e56-bdbda9b8329e",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/08047295-5fb7-4922-8e56-bdbda9b8329e/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:41.859499Z",
+        "description": "Austria - GRILLITSCH Florian_385248_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/ebc5e8b2-79c8-4c9a-b39a-39e30addc204.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "KALAJDZIC Sasa_430100_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------24efd9aed021123ab375ee1d"
+      },
+      "body": {
+        "filename": "KALAJDZIC Sasa_430100_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Austria - KALAJDZIC Sasa_430100_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "d5e362c3-03f2-4c8a-953e-cf2bd3981107",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/d5e362c3-03f2-4c8a-953e-cf2bd3981107/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:42.546566Z",
+        "description": "Austria - KALAJDZIC Sasa_430100_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/b5de81e7-7114-4b36-8995-826dd97df25c.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "SABITZER Marcel_358241_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------b5efee6607eee461bba059bf"
+      },
+      "body": {
+        "filename": "SABITZER Marcel_358241_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Austria - SABITZER Marcel_358241_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "a46dc91a-a27c-467d-ab8f-7b498c668577",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/a46dc91a-a27c-467d-ab8f-7b498c668577/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:43.311268Z",
+        "description": "Austria - SABITZER Marcel_358241_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/c319470f-5979-4d6f-95ef-3ba077afbeef.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "SCHLAGER Xaver_385531_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------0a421ab0f6cf2c38a78eb4dd"
+      },
+      "body": {
+        "filename": "SCHLAGER Xaver_385531_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Austria - SCHLAGER Xaver_385531_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "71025b12-f2e7-4464-a6bc-f0d6bf584113",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/71025b12-f2e7-4464-a6bc-f0d6bf584113/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:43.859754Z",
+        "description": "Austria - SCHLAGER Xaver_385531_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/0d42a630-7275-4547-bd2e-36882ccd9749.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "DE BRUYNE Kevin_358120_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------e77ccb286c8573b1c10b8027"
+      },
+      "body": {
+        "filename": "DE BRUYNE Kevin_358120_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Belgium - DE BRUYNE Kevin_358120_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "f04e9cf5-f4c4-4833-925a-0960e073f6fc",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/f04e9cf5-f4c4-4833-925a-0960e073f6fc/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:44.705240Z",
+        "description": "Belgium - DE BRUYNE Kevin_358120_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/81d5a393-2535-4ee9-ac9e-a5a228aa4daa.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "LUKAKU Romelu_358112_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------bc6e7b4ff38e2384935f69fc"
+      },
+      "body": {
+        "filename": "LUKAKU Romelu_358112_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Belgium - LUKAKU Romelu_358112_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "b8a14ce7-bb17-4be5-872d-6e25100af978",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/b8a14ce7-bb17-4be5-872d-6e25100af978/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:45.199662Z",
+        "description": "Belgium - LUKAKU Romelu_358112_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/e9b7698d-19a1-4363-a14a-53e52c9532c5.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "ONANA Amadou_448364_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------09c425c7471754513a12120d"
+      },
+      "body": {
+        "filename": "ONANA Amadou_448364_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Belgium - ONANA Amadou_448364_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "41dc551e-0fa5-4b3a-8c88-629e1ab62c30",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/41dc551e-0fa5-4b3a-8c88-629e1ab62c30/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:45.945078Z",
+        "description": "Belgium - ONANA Amadou_448364_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/1f55b409-7019-4451-8118-14bb4940dd36.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "TIELEMANS Youri_401444_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------27535b8641beefd1e9f7adb9"
+      },
+      "body": {
+        "filename": "TIELEMANS Youri_401444_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Belgium - TIELEMANS Youri_401444_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "c63f1dfc-2e43-4c54-8c02-2e48d7a65f89",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/c63f1dfc-2e43-4c54-8c02-2e48d7a65f89/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:46.631692Z",
+        "description": "Belgium - TIELEMANS Youri_401444_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/6e0d7feb-ab0b-46ca-b9f9-f72ef6dd3331.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "TROSSARD Leandro_448355_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------4e5a6260c5597a6f89107836"
+      },
+      "body": {
+        "filename": "TROSSARD Leandro_448355_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Belgium - TROSSARD Leandro_448355_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "b761fb57-d00e-46a9-924b-403273889e87",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/b761fb57-d00e-46a9-924b-403273889e87/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:47.169041Z",
+        "description": "Belgium - TROSSARD Leandro_448355_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/4b124f1f-9781-4fc8-b5a6-8ac36ff08486.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "ALAJBEGOVIC Kerim_504990_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------913153d5edef9b539c078555"
+      },
+      "body": {
+        "filename": "ALAJBEGOVIC Kerim_504990_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Bosnia and Herzegovina - ALAJBEGOVIC Kerim_504990_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "6a1e5a02-2b53-4464-82e7-48161a428f87",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/6a1e5a02-2b53-4464-82e7-48161a428f87/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:47.755443Z",
+        "description": "Bosnia and Herzegovina - ALAJBEGOVIC Kerim_504990_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/86b7fad5-8dae-40d6-b518-b47a49f5d8c3.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "DEMIROVIC Ermedin_436743_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------5e2d77342b8d5f7afa7922c1"
+      },
+      "body": {
+        "filename": "DEMIROVIC Ermedin_436743_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Bosnia and Herzegovina - DEMIROVIC Ermedin_436743_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "c008b21e-38a8-447d-bce8-2ce699f43411",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/c008b21e-38a8-447d-bce8-2ce699f43411/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:48.361583Z",
+        "description": "Bosnia and Herzegovina - DEMIROVIC Ermedin_436743_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/3516d918-1d97-4ec3-84be-7730e1fef607.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "DZEKO Edin_300409_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------87d78a55f00d48fab22520d8"
+      },
+      "body": {
+        "filename": "DZEKO Edin_300409_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Bosnia and Herzegovina - DZEKO Edin_300409_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "bcbb8409-3b1b-4950-87dc-0fa6b38a2e8b",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/bcbb8409-3b1b-4950-87dc-0fa6b38a2e8b/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:48.979447Z",
+        "description": "Bosnia and Herzegovina - DZEKO Edin_300409_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/5f35da18-5ab3-44b5-aba0-a33ca51a74a4.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "MEMIC Amar_494640_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------24ea84c0bcad2f2388432140"
+      },
+      "body": {
+        "filename": "MEMIC Amar_494640_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Bosnia and Herzegovina - MEMIC Amar_494640_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "a8cb4f43-b70f-46b1-a325-163d99b442e7",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/a8cb4f43-b70f-46b1-a325-163d99b442e7/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:49.682767Z",
+        "description": "Bosnia and Herzegovina - MEMIC Amar_494640_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/b2abe2f7-5432-4a1f-9807-0f2417290dfb.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "TAHIROVIC Benjamin_483966_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------eb52b777ceaf8d9a9f7b027f"
+      },
+      "body": {
+        "filename": "TAHIROVIC Benjamin_483966_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Bosnia and Herzegovina - TAHIROVIC Benjamin_483966_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "c2efe0ea-5762-4efa-898a-2e12befba8ce",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/c2efe0ea-5762-4efa-898a-2e12befba8ce/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:50.215021Z",
+        "description": "Bosnia and Herzegovina - TAHIROVIC Benjamin_483966_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/b94fa20e-33df-42a7-ac6a-76121210e7c8.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "IGOR THIAGO_519836_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------48eeb3c104915a153d0b91cc"
+      },
+      "body": {
+        "filename": "IGOR THIAGO_519836_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Brazil - IGOR THIAGO_519836_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "2306831e-75d5-445d-8f3d-2682bde3f912",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/2306831e-75d5-445d-8f3d-2682bde3f912/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:50.805530Z",
+        "description": "Brazil - IGOR THIAGO_519836_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/b988b298-6aa9-4654-8f08-d5f4b9854219.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "LUCAS PAQUETA_411726_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------447925600557d60cfd5441ee"
+      },
+      "body": {
+        "filename": "LUCAS PAQUETA_411726_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Brazil - LUCAS PAQUETA_411726_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "36b58a5d-6adb-4beb-9b1b-e01243d7802c",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/36b58a5d-6adb-4beb-9b1b-e01243d7802c/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:51.389326Z",
+        "description": "Brazil - LUCAS PAQUETA_411726_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/0ced957e-600c-4b8c-af04-725139fc9c81.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "MATHEUS CUNHA_430609_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------6e4e9bfd7aeed3344d38d50d"
+      },
+      "body": {
+        "filename": "MATHEUS CUNHA_430609_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Brazil - MATHEUS CUNHA_430609_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "5070f71b-cb5d-46e8-9ff6-80b1f6482c51",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/5070f71b-cb5d-46e8-9ff6-80b1f6482c51/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:52.446159Z",
+        "description": "Brazil - MATHEUS CUNHA_430609_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/dbed5c9b-c27d-4743-b439-a9ae85e6fd6c.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "NEYMAR_314197_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------d515695138b8e0076c08d142"
+      },
+      "body": {
+        "filename": "NEYMAR_314197_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Brazil - NEYMAR_314197_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "805cdb5a-2738-4c7a-9dad-4c9a24a90dde",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/805cdb5a-2738-4c7a-9dad-4c9a24a90dde/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:53.473261Z",
+        "description": "Brazil - NEYMAR_314197_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/27acacaf-1ae9-45da-8929-de383b882201.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "VINICIUS JUNIOR_405742_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------7534b68a526211bcef5d04f1"
+      },
+      "body": {
+        "filename": "VINICIUS JUNIOR_405742_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Brazil - VINICIUS JUNIOR_405742_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "4c249673-c1ba-4662-b033-19e374864f43",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/4c249673-c1ba-4662-b033-19e374864f43/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:54.529120Z",
+        "description": "Brazil - VINICIUS JUNIOR_405742_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/947b02f1-eca5-4122-88fd-d77821bc6171.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "AHMED Ali_466687_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------79f64041bcbf84068648d02b"
+      },
+      "body": {
+        "filename": "AHMED Ali_466687_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Canada - AHMED Ali_466687_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "e574134d-731e-4753-ad97-193e7a94fcd2",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/e574134d-731e-4753-ad97-193e7a94fcd2/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:55.424573Z",
+        "description": "Canada - AHMED Ali_466687_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/734a06ef-e47f-4b0f-ae56-7645ca9215e9.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "DAVID Jonathan_441257_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------498fe9b0c7ceceadb349b559"
+      },
+      "body": {
+        "filename": "DAVID Jonathan_441257_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Canada - DAVID Jonathan_441257_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "345d0ddf-146f-411b-8473-e6f36adc791b",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/345d0ddf-146f-411b-8473-e6f36adc791b/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:55.997880Z",
+        "description": "Canada - DAVID Jonathan_441257_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/8f8de66c-dbed-497e-9296-ef9a559b56dd.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "DAVIES Alphonso_412144_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------b930d0b5231da5f6ec2d8013"
+      },
+      "body": {
+        "filename": "DAVIES Alphonso_412144_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Canada - DAVIES Alphonso_412144_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "62147c91-19ee-42a7-ae29-de22c91f27ff",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/62147c91-19ee-42a7-ae29-de22c91f27ff/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:57.310689Z",
+        "description": "Canada - DAVIES Alphonso_412144_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/0b9085e7-3f94-4da9-a8a9-40f1327ac217.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "EUSTAQUIO Stephen_433635_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------8a1178e00af043a75390a006"
+      },
+      "body": {
+        "filename": "EUSTAQUIO Stephen_433635_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Canada - EUSTAQUIO Stephen_433635_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "d3b9739a-6eb9-4061-8ad0-c358e07e9db1",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/d3b9739a-6eb9-4061-8ad0-c358e07e9db1/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:57.910823Z",
+        "description": "Canada - EUSTAQUIO Stephen_433635_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/08fe99dd-d04d-4f1e-8734-ef0d93539a5b.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "LARIN Cyle_390670_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------eb211341690f87ef7320b6b1"
+      },
+      "body": {
+        "filename": "LARIN Cyle_390670_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Canada - LARIN Cyle_390670_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "91544f92-5edb-44d5-b0e5-3c7ca922d40d",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/91544f92-5edb-44d5-b0e5-3c7ca922d40d/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:58.745170Z",
+        "description": "Canada - LARIN Cyle_390670_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/1c78a866-0075-4eec-86cf-7adeab2a5531.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "DAILON LIVRAMENTO_482782_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------74d40902e0bd7f605ee589c1"
+      },
+      "body": {
+        "filename": "DAILON LIVRAMENTO_482782_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Cape Verde - DAILON LIVRAMENTO_482782_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "5725e979-2491-43bc-a30a-11b273dd9a45",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/5725e979-2491-43bc-a30a-11b273dd9a45/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:21:59.733437Z",
+        "description": "Cape Verde - DAILON LIVRAMENTO_482782_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/4c7e318d-4188-4030-aebe-b37c4553269e.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "JOVANE CABRAL_477856_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------17d42c5b8b85b56959bb0484"
+      },
+      "body": {
+        "filename": "JOVANE CABRAL_477856_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Cape Verde - JOVANE CABRAL_477856_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "be8aec21-8f10-48cc-9e0b-53dfd30cbba2",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/be8aec21-8f10-48cc-9e0b-53dfd30cbba2/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:00.269784Z",
+        "description": "Cape Verde - JOVANE CABRAL_477856_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/8782459c-b033-4ba2-b83c-0a9af7f45e62.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "RYAN MENDES_355642_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------7a8e7080551f6740ad5bb34a"
+      },
+      "body": {
+        "filename": "RYAN MENDES_355642_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Cape Verde - RYAN MENDES_355642_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "ad37b200-de56-4090-b0a4-a85996d1e476",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/ad37b200-de56-4090-b0a4-a85996d1e476/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:01.070283Z",
+        "description": "Cape Verde - RYAN MENDES_355642_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/4653930c-2724-4563-830f-c53a9d0f622f.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "SIDNY LOPES CABRAL_477832_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------3c4d908af02a4124bf573950"
+      },
+      "body": {
+        "filename": "SIDNY LOPES CABRAL_477832_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Cape Verde - SIDNY LOPES CABRAL_477832_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "5e020544-3ed5-4e1e-bd41-a01ae1422d81",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/5e020544-3ed5-4e1e-bd41-a01ae1422d81/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:01.608635Z",
+        "description": "Cape Verde - SIDNY LOPES CABRAL_477832_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/7aff1ed0-4877-476f-9f88-ad587cf9d157.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "VOZINHA_364752_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------cfc9ec869315e2efcda80516"
+      },
+      "body": {
+        "filename": "VOZINHA_364752_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Cape Verde - VOZINHA_364752_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "97687d2a-c687-4e28-82c2-6cbb673a8e60",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/97687d2a-c687-4e28-82c2-6cbb673a8e60/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:02.421983Z",
+        "description": "Cape Verde - VOZINHA_364752_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/67280d73-f39e-4dad-8b7c-3e3f0273b6e3.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "CARRASCAL Jorge_425580_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------88b7458b81ce2359a64f9311"
+      },
+      "body": {
+        "filename": "CARRASCAL Jorge_425580_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Colombia - CARRASCAL Jorge_425580_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "ba0a26ab-e3b8-41cd-a97e-d6463a934993",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/ba0a26ab-e3b8-41cd-a97e-d6463a934993/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:02.973001Z",
+        "description": "Colombia - CARRASCAL Jorge_425580_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/40df74f6-9a81-45ae-a722-ccae5c0bd258.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "DIAZ Luis_428886_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------7cec3a9f3c6b77c44456ee93"
+      },
+      "body": {
+        "filename": "DIAZ Luis_428886_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Colombia - DIAZ Luis_428886_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "3045ae29-232a-45eb-8d32-7043565431a1",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/3045ae29-232a-45eb-8d32-7043565431a1/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:03.768669Z",
+        "description": "Colombia - DIAZ Luis_428886_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/c51b0833-334c-4002-ab0b-10ec8572627b.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "MINA Yerry_395552_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------a3d132b0287344a8d4eaf9a5"
+      },
+      "body": {
+        "filename": "MINA Yerry_395552_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Colombia - MINA Yerry_395552_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "2be60af8-f8cf-4207-8c31-d4f9b4a7c3a5",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/2be60af8-f8cf-4207-8c31-d4f9b4a7c3a5/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:04.499244Z",
+        "description": "Colombia - MINA Yerry_395552_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/10bfb7a2-20f0-4bc1-89b2-07824605577c.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "RODRIGUEZ James_269058_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------561666872ec284ebcd6afc6e"
+      },
+      "body": {
+        "filename": "RODRIGUEZ James_269058_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Colombia - RODRIGUEZ James_269058_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "d330682d-f147-4357-9918-12de55099dd5",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/d330682d-f147-4357-9918-12de55099dd5/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:05.235017Z",
+        "description": "Colombia - RODRIGUEZ James_269058_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/f289aa01-e19f-47d0-b5c2-a7c8d6e38db0.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "SUAREZ Luis_428905_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------8ee529bddb907b22b6d96e5d"
+      },
+      "body": {
+        "filename": "SUAREZ Luis_428905_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Colombia - SUAREZ Luis_428905_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "c7485b1d-74a4-442e-ae85-59f4fc98c310",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/c7485b1d-74a4-442e-ae85-59f4fc98c310/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:05.732612Z",
+        "description": "Colombia - SUAREZ Luis_428905_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/f2ac45f8-7366-4936-9454-aa93bf32c444.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "BUDIMIR Ante_430070_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------00ef7aa86e08f391cf64066c"
+      },
+      "body": {
+        "filename": "BUDIMIR Ante_430070_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Croatia - BUDIMIR Ante_430070_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "ef3034f6-4ab2-431b-8948-5046b799bc65",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/ef3034f6-4ab2-431b-8948-5046b799bc65/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:06.873696Z",
+        "description": "Croatia - BUDIMIR Ante_430070_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/2077e2bf-0d77-4cc5-a846-fbb0ef0ff443.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "GVARDIOL Josko_448180_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------c82dac2dcaedf7be93181cd7"
+      },
+      "body": {
+        "filename": "GVARDIOL Josko_448180_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Croatia - GVARDIOL Josko_448180_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "a24f85ab-b459-4512-9779-965c78945235",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/a24f85ab-b459-4512-9779-965c78945235/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:07.403674Z",
+        "description": "Croatia - GVARDIOL Josko_448180_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/b8716c3f-49c6-467f-91db-b1d27c60f0e2.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "KRAMARIC Andrej_336472_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------53f84adcd35387f3f1c5a342"
+      },
+      "body": {
+        "filename": "KRAMARIC Andrej_336472_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Croatia - KRAMARIC Andrej_336472_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "f062b9a8-06a5-4268-9417-345df4159999",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/f062b9a8-06a5-4268-9417-345df4159999/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:07.953597Z",
+        "description": "Croatia - KRAMARIC Andrej_336472_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/7be606c0-1259-4209-aadd-5a1a24cac4b5.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "MODRIC Luka_241559_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------27c2f3f7ce4ce591058c9d43"
+      },
+      "body": {
+        "filename": "MODRIC Luka_241559_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Croatia - MODRIC Luka_241559_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "2646b1db-9669-458e-808d-d3b2c38e19ac",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/2646b1db-9669-458e-808d-d3b2c38e19ac/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:08.990961Z",
+        "description": "Croatia - MODRIC Luka_241559_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/3c00e40e-f9f7-4713-8fa7-89c31b0cef89.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "PERISIC Ivan_359381_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------978493d8e2502216d1d994ee"
+      },
+      "body": {
+        "filename": "PERISIC Ivan_359381_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Croatia - PERISIC Ivan_359381_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "3ea0a38e-f5e9-4361-ac89-5c0b44164f01",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/3ea0a38e-f5e9-4361-ac89-5c0b44164f01/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:09.650646Z",
+        "description": "Croatia - PERISIC Ivan_359381_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/dfd95446-3176-417f-911a-56e556bce72d.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "BAKAMBU Cedric_336425_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------1cefbf75b46d24789a8bbb23"
+      },
+      "body": {
+        "filename": "BAKAMBU Cedric_336425_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "DR Congo - BAKAMBU Cedric_336425_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "d13d8ad9-8c13-4d5a-a80a-255ce0ee7895",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/d13d8ad9-8c13-4d5a-a80a-255ce0ee7895/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:10.263002Z",
+        "description": "DR Congo - BAKAMBU Cedric_336425_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/59734a4d-66fa-4f9e-8f7d-0f4b85da4f04.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "BONGONDA Theo_441317_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------820cd66854f8cbe4a176d499"
+      },
+      "body": {
+        "filename": "BONGONDA Theo_441317_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "DR Congo - BONGONDA Theo_441317_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "e5f83f9a-5191-4c6a-8107-628a7fc9eeee",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/e5f83f9a-5191-4c6a-8107-628a7fc9eeee/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:11.094692Z",
+        "description": "DR Congo - BONGONDA Theo_441317_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/229db1c8-5a6e-4011-99a4-98554d84a8c7.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "MUKAU Ngalayel_494458_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------75269fc1f6f7fee389a8fac4"
+      },
+      "body": {
+        "filename": "MUKAU Ngalayel_494458_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "DR Congo - MUKAU Ngalayel_494458_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "89008067-787b-492b-974f-4a6f0a0dcb18",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/89008067-787b-492b-974f-4a6f0a0dcb18/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:11.585424Z",
+        "description": "DR Congo - MUKAU Ngalayel_494458_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/beef8e12-d8ba-42ff-9b01-a29f0f17dc4e.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "WAN-BISSAKA Aaron_426357_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------86a243d357b97bd4b8efef94"
+      },
+      "body": {
+        "filename": "WAN-BISSAKA Aaron_426357_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "DR Congo - WAN-BISSAKA Aaron_426357_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "f54ef0b4-4ebc-456d-8a30-51394d9776ea",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/f54ef0b4-4ebc-456d-8a30-51394d9776ea/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:12.115693Z",
+        "description": "DR Congo - WAN-BISSAKA Aaron_426357_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/97f4ef07-c94d-4aee-95ef-c421940a572a.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "WISSA Yoane_441316_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------4dcd42cf16011d016c49e949"
+      },
+      "body": {
+        "filename": "WISSA Yoane_441316_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "DR Congo - WISSA Yoane_441316_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "7e5dc07a-cb73-4604-875d-6251fb207c50",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/7e5dc07a-cb73-4604-875d-6251fb207c50/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:12.896739Z",
+        "description": "DR Congo - WISSA Yoane_441316_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/601c5282-7902-4fe7-9d54-d5a9ec7de48e.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "ANGULO Nilson_448312_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------2a49a5261d0b3cb8c14939d7"
+      },
+      "body": {
+        "filename": "ANGULO Nilson_448312_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Ecuador - ANGULO Nilson_448312_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "c19f5496-59a5-4f71-bcff-ada1e3f3b630",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/c19f5496-59a5-4f71-bcff-ada1e3f3b630/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:13.570050Z",
+        "description": "Ecuador - ANGULO Nilson_448312_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/3c1642b8-42d9-4dd0-bacf-58108f6f3017.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "CAICEDO Moises_428885_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------20eec8feca49db7e6a2b2f79"
+      },
+      "body": {
+        "filename": "CAICEDO Moises_428885_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Ecuador - CAICEDO Moises_428885_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "c2f4229a-972b-43b3-92bc-be17593e6adb",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/c2f4229a-972b-43b3-92bc-be17593e6adb/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:14.312128Z",
+        "description": "Ecuador - CAICEDO Moises_428885_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/1227e304-aaf6-46b1-922f-665529a8729d.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "HINCAPIE Piero_424031_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------15582795aa06d64c93f7eab4"
+      },
+      "body": {
+        "filename": "HINCAPIE Piero_424031_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Ecuador - HINCAPIE Piero_424031_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "f15ac776-42b6-41af-ba9f-aaedab6e4879",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/f15ac776-42b6-41af-ba9f-aaedab6e4879/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:14.807017Z",
+        "description": "Ecuador - HINCAPIE Piero_424031_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/587c9159-43f2-46f9-b145-b8cf8c16ea5e.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "PLATA Gonzalo_419020_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------addd17cbfa69336a4c567acc"
+      },
+      "body": {
+        "filename": "PLATA Gonzalo_419020_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Ecuador - PLATA Gonzalo_419020_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "ae085b52-9d2f-4d4d-9550-11e5b9bcb3a2",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/ae085b52-9d2f-4d4d-9550-11e5b9bcb3a2/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:15.319498Z",
+        "description": "Ecuador - PLATA Gonzalo_419020_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/32a79169-cd09-44bf-a8d9-dae21aa5bf32.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "VALENCIA Enner_373400_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------0c542f71243a5648aedd066b"
+      },
+      "body": {
+        "filename": "VALENCIA Enner_373400_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Ecuador - VALENCIA Enner_373400_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "d6f64126-cf4c-4887-83a2-318b8be91334",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/d6f64126-cf4c-4887-83a2-318b8be91334/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:15.891660Z",
+        "description": "Ecuador - VALENCIA Enner_373400_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/aacaab0c-37cc-4b22-96fd-ff3685115c23.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "EMAM ASHOUR_430482_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------5e586e50d3fe581f44849a25"
+      },
+      "body": {
+        "filename": "EMAM ASHOUR_430482_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Egypt - EMAM ASHOUR_430482_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "7feee8b9-c482-40dd-897c-0aca02c9de9c",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/7feee8b9-c482-40dd-897c-0aca02c9de9c/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:16.449424Z",
+        "description": "Egypt - EMAM ASHOUR_430482_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/5426d6ea-0343-412a-be3a-26097825b690.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "HAMZA ABDELKARIM_495488_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------a919e7db6bc8da8275659379"
+      },
+      "body": {
+        "filename": "HAMZA ABDELKARIM_495488_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Egypt - HAMZA ABDELKARIM_495488_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "22ed2ba7-b5ab-4ec6-96c2-3c12da3c756a",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/22ed2ba7-b5ab-4ec6-96c2-3c12da3c756a/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:17.346290Z",
+        "description": "Egypt - HAMZA ABDELKARIM_495488_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/03daff49-5833-4908-a6e5-4164c58c080b.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "MOHAMED SALAH_344654_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------274b8faaff57d83d41ceb425"
+      },
+      "body": {
+        "filename": "MOHAMED SALAH_344654_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Egypt - MOHAMED SALAH_344654_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "3851c89b-9caa-46f3-a935-fcb78cfd8db4",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/3851c89b-9caa-46f3-a935-fcb78cfd8db4/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:17.947269Z",
+        "description": "Egypt - MOHAMED SALAH_344654_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/f0bfcc8f-1341-4965-b4d1-ff906f3ad160.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "OMAR MARMOUSH_430476_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------a1de9cbab8e34e834e11e80f"
+      },
+      "body": {
+        "filename": "OMAR MARMOUSH_430476_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Egypt - OMAR MARMOUSH_430476_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "5bea4c30-b2c3-4feb-b189-d88baadaad8e",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/5bea4c30-b2c3-4feb-b189-d88baadaad8e/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:18.528792Z",
+        "description": "Egypt - OMAR MARMOUSH_430476_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/68bed888-7f7b-4962-9be9-568c5eeb3e14.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "TREZEGUET_363863_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------a88d6e85a9bff8018eb3841c"
+      },
+      "body": {
+        "filename": "TREZEGUET_363863_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Egypt - TREZEGUET_363863_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "a6b997c2-a676-45bd-a5e9-42ba1ea15dd2",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/a6b997c2-a676-45bd-a5e9-42ba1ea15dd2/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:19.419219Z",
+        "description": "Egypt - TREZEGUET_363863_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/2305e994-7f1f-4b73-b047-93d776c27fc3.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "BELLINGHAM Jude_448202_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------62b7dd0cd8ae0ae4a1718674"
+      },
+      "body": {
+        "filename": "BELLINGHAM Jude_448202_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "England - BELLINGHAM Jude_448202_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "e727e7c9-fa49-4377-b2c1-a00cca51831b",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/e727e7c9-fa49-4377-b2c1-a00cca51831b/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:19.881913Z",
+        "description": "England - BELLINGHAM Jude_448202_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/5a44d461-9db1-42fa-ad2b-b7557d93ccfb.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "EZE Eberechi_473113_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------a679b7ac8dd331c1f70ffec9"
+      },
+      "body": {
+        "filename": "EZE Eberechi_473113_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "England - EZE Eberechi_473113_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "45636490-1317-41da-a79c-633f9e51e648",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/45636490-1317-41da-a79c-633f9e51e648/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:20.511579Z",
+        "description": "England - EZE Eberechi_473113_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/26bdab13-ec1d-49b4-af34-076fa39e785d.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "KANE Harry_369419_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------630ecb39e57561c5990e20be"
+      },
+      "body": {
+        "filename": "KANE Harry_369419_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "England - KANE Harry_369419_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "d8ce6e07-60be-4d5a-a4df-3c1b57cdbd06",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/d8ce6e07-60be-4d5a-a4df-3c1b57cdbd06/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:21.082559Z",
+        "description": "England - KANE Harry_369419_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/dfdfd09d-9960-460b-b3ae-1070f2dd97de.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "MUMIN Abdul_441336_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------4a991c1dd5d5e37af937ec69"
+      },
+      "body": {
+        "filename": "MUMIN Abdul_441336_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "England - MUMIN Abdul_441336_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "a8ad78d6-1b9d-4d3f-9839-6e2a8313c012",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/a8ad78d6-1b9d-4d3f-9839-6e2a8313c012/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:21.687020Z",
+        "description": "England - MUMIN Abdul_441336_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/ad161ee4-e0e7-486f-9e3c-1f53e115b053.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "RASHFORD Marcus_401470_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------d131ef4bdcc1e8c6c84947fe"
+      },
+      "body": {
+        "filename": "RASHFORD Marcus_401470_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "England - RASHFORD Marcus_401470_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "59c3c649-2c40-43b5-941b-b0e0a9c18466",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/59c3c649-2c40-43b5-941b-b0e0a9c18466/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:22.601661Z",
+        "description": "England - RASHFORD Marcus_401470_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/db99a589-b9f3-4f28-95ae-67e7fcd9e738.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "BARCOLA Bradley_484860_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------f9801e875abba8314e50dd0e"
+      },
+      "body": {
+        "filename": "BARCOLA Bradley_484860_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "France - BARCOLA Bradley_484860_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "03171e39-a57f-451c-b87b-fa0e27daecd5",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/03171e39-a57f-451c-b87b-fa0e27daecd5/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:23.107872Z",
+        "description": "France - BARCOLA Bradley_484860_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/16ef345f-2f15-48ab-b5b9-ca65204e0f59.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "DEMBELE Ousmane_398680_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------59015e76874238530aa1c54f"
+      },
+      "body": {
+        "filename": "DEMBELE Ousmane_398680_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "France - DEMBELE Ousmane_398680_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "56e479c6-545a-4af4-ad35-6846423f348d",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/56e479c6-545a-4af4-ad35-6846423f348d/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:23.718723Z",
+        "description": "France - DEMBELE Ousmane_398680_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/4f8e46a0-d79c-48c4-95e5-9f0520b2d7cb.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "DOUE Desire_464114_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------a57250b964de0fb2dd722aa5"
+      },
+      "body": {
+        "filename": "DOUE Desire_464114_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "France - DOUE Desire_464114_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "24fabe2c-07d6-4bab-b665-c42becf85fa3",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/24fabe2c-07d6-4bab-b665-c42becf85fa3/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:24.503722Z",
+        "description": "France - DOUE Desire_464114_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/e73d6e84-6f73-41e3-a82e-c3495b646f6e.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "MBAPPE Kylian_389867_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------bd3bc3b66b2f7e3a3862e8fe"
+      },
+      "body": {
+        "filename": "MBAPPE Kylian_389867_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "France - MBAPPE Kylian_389867_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "6f1b4c7f-ce23-46de-adde-878cac0d55ad",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/6f1b4c7f-ce23-46de-adde-878cac0d55ad/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:25.090050Z",
+        "description": "France - MBAPPE Kylian_389867_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/add6fd81-b608-46af-8096-c2e9cca502fa.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "OLISE Michael_485655_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------72cba7915c1e4c6e2c8a9253"
+      },
+      "body": {
+        "filename": "OLISE Michael_485655_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "France - OLISE Michael_485655_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "fcee1dff-374f-4302-b7ff-e7e5aa1ed103",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/fcee1dff-374f-4302-b7ff-e7e5aa1ed103/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:25.701595Z",
+        "description": "France - OLISE Michael_485655_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/d8ce5ea4-ba7e-4aec-8ecf-8979c57547fe.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "HAVERTZ Kai_411367_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------cac0443b254a743edcfaf59a"
+      },
+      "body": {
+        "filename": "HAVERTZ Kai_411367_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Germany - HAVERTZ Kai_411367_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "79b0e5f5-2383-4ab7-a73e-04a864c2442f",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/79b0e5f5-2383-4ab7-a73e-04a864c2442f/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:26.908239Z",
+        "description": "Germany - HAVERTZ Kai_411367_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/7ff4bb33-0eaa-4da8-b184-c7e5d1813083.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "KIMMICH Joshua_386413_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------f93765cbd4118104f34348e2"
+      },
+      "body": {
+        "filename": "KIMMICH Joshua_386413_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Germany - KIMMICH Joshua_386413_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "89ca40bc-23d4-44a0-9916-4b20ea579f5a",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/89ca40bc-23d4-44a0-9916-4b20ea579f5a/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:27.500552Z",
+        "description": "Germany - KIMMICH Joshua_386413_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/11efa1bf-0933-412c-852a-97e1d07f165c.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "MUSIALA Jamal_429642_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------604b2d3bbf91ad3e8eddd60b"
+      },
+      "body": {
+        "filename": "MUSIALA Jamal_429642_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Germany - MUSIALA Jamal_429642_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "1b2137f5-8cb0-4a89-bbbe-927dfa3094e1",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/1b2137f5-8cb0-4a89-bbbe-927dfa3094e1/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:28.051381Z",
+        "description": "Germany - MUSIALA Jamal_429642_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/ab9ffd65-5502-4d26-8dab-cfbcd8e85749.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "SANE Leroy_404353_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------0df8c4978e70071e2626ca06"
+      },
+      "body": {
+        "filename": "SANE Leroy_404353_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Germany - SANE Leroy_404353_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "0a2035aa-72b6-4afc-bdd7-39e325612407",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/0a2035aa-72b6-4afc-bdd7-39e325612407/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:28.568273Z",
+        "description": "Germany - SANE Leroy_404353_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/6042b2ee-5ce9-45da-81eb-9bcb4f1c2f78.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "WIRTZ Florian_430669_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------4aa5fc8e4a192c610db2c392"
+      },
+      "body": {
+        "filename": "WIRTZ Florian_430669_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Germany - WIRTZ Florian_430669_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "769e395c-7d72-44c4-a7e0-1d511ca603d0",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/769e395c-7d72-44c4-a7e0-1d511ca603d0/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:29.049457Z",
+        "description": "Germany - WIRTZ Florian_430669_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/c6cfe36e-7eca-4d58-a4f9-0ec0a2d932a2.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "AYEW Jordan_353235_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------7adb6459ecefb599473c7202"
+      },
+      "body": {
+        "filename": "AYEW Jordan_353235_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Ghana - AYEW Jordan_353235_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "ade902ca-76ac-4431-9bdf-e60018425ca4",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/ade902ca-76ac-4431-9bdf-e60018425ca4/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:29.777779Z",
+        "description": "Ghana - AYEW Jordan_353235_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/a51d478a-9705-46d1-9d13-41d15009d8de.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "PARTEY Thomas_369089_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------0ff2288a0796e580dbebe332"
+      },
+      "body": {
+        "filename": "PARTEY Thomas_369089_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Ghana - PARTEY Thomas_369089_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "9659b2a9-888f-4d3b-ab4e-dedd7e62bd26",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/9659b2a9-888f-4d3b-ab4e-dedd7e62bd26/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:30.395665Z",
+        "description": "Ghana - PARTEY Thomas_369089_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/427f7703-5e70-4822-a1f8-9992c9c9e345.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "SEMENYO Antoine_448531_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------1840a8ef911e26524a128ed7"
+      },
+      "body": {
+        "filename": "SEMENYO Antoine_448531_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Ghana - SEMENYO Antoine_448531_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "d647b646-fc83-4279-a8dc-39ee84fad1e8",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/d647b646-fc83-4279-a8dc-39ee84fad1e8/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:30.991887Z",
+        "description": "Ghana - SEMENYO Antoine_448531_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/fb3382c4-0acd-4419-9a9a-4a82524df441.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "THOMAS-ASANTE Brandon_486213_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------59efe3ade18d08a5e4360f48"
+      },
+      "body": {
+        "filename": "THOMAS-ASANTE Brandon_486213_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Ghana - THOMAS-ASANTE Brandon_486213_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "cb1244a0-c2c4-43c7-90a1-df003ad054d9",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/cb1244a0-c2c4-43c7-90a1-df003ad054d9/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:31.828732Z",
+        "description": "Ghana - THOMAS-ASANTE Brandon_486213_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/800fe5b2-bba0-484f-8d67-62c5c375e385.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "WILLIAMS Inaki_411376_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------658926cc13bad983c9953ba2"
+      },
+      "body": {
+        "filename": "WILLIAMS Inaki_411376_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Ghana - WILLIAMS Inaki_411376_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "975be2b9-f223-4a57-b8fa-bb9a91c8928f",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/975be2b9-f223-4a57-b8fa-bb9a91c8928f/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:32.462960Z",
+        "description": "Ghana - WILLIAMS Inaki_411376_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/56456824-46de-4cd4-8270-5cd43a919299.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "DIALLO Amad_430822_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------3ffbb97384f30c2963670266"
+      },
+      "body": {
+        "filename": "DIALLO Amad_430822_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Ivory Coast - DIALLO Amad_430822_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "ff6344c3-cce1-404d-b7ef-a39fa008d0f1",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/ff6344c3-cce1-404d-b7ef-a39fa008d0f1/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:32.979296Z",
+        "description": "Ivory Coast - DIALLO Amad_430822_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/6bd18ef9-397b-444b-bac7-924d7188899a.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "DIOMANDE Yan_510922_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------3fa27777ffb23a6abe9dceb8"
+      },
+      "body": {
+        "filename": "DIOMANDE Yan_510922_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Ivory Coast - DIOMANDE Yan_510922_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "5f366048-a2f7-4619-8e6a-ca5563ddbc72",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/5f366048-a2f7-4619-8e6a-ca5563ddbc72/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:33.781975Z",
+        "description": "Ivory Coast - DIOMANDE Yan_510922_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/5670d3fb-2e72-4f6c-ae8c-0aebeb5c0aa8.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "FOFANA Seko_405175_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------501774e02b71e339699630b4"
+      },
+      "body": {
+        "filename": "FOFANA Seko_405175_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Ivory Coast - FOFANA Seko_405175_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "5421b6da-8bf0-46d4-becb-7c0e9e4226ff",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/5421b6da-8bf0-46d4-becb-7c0e9e4226ff/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:34.310113Z",
+        "description": "Ivory Coast - FOFANA Seko_405175_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/e8895b1a-3a93-4a6a-bf80-7556a07d64c5.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "KESSIE Franck_371609_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------af59707f780229da000979ba"
+      },
+      "body": {
+        "filename": "KESSIE Franck_371609_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Ivory Coast - KESSIE Franck_371609_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "0570a821-06c1-4a56-86d7-a5e888778e84",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/0570a821-06c1-4a56-86d7-a5e888778e84/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:34.792436Z",
+        "description": "Ivory Coast - KESSIE Franck_371609_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/c3a45b72-6965-4ddc-9d76-123074fa209e.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "PEPE Nicolas_402261_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------ee047f2d8146a48284f7ef02"
+      },
+      "body": {
+        "filename": "PEPE Nicolas_402261_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Ivory Coast - PEPE Nicolas_402261_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "415daf24-77dc-40a1-a712-9c0c3168abd8",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/415daf24-77dc-40a1-a712-9c0c3168abd8/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:35.396997Z",
+        "description": "Ivory Coast - PEPE Nicolas_402261_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/29c37fd3-85d6-45c6-a773-9abc025d3d64.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "ENDO Wataru_395318_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------be09ad7766289c3d52ce592b"
+      },
+      "body": {
+        "filename": "ENDO Wataru_395318_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Japan - ENDO Wataru_395318_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "31dfa5b2-88d6-4a79-b676-c8dee46299c0",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/31dfa5b2-88d6-4a79-b676-c8dee46299c0/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:36.175868Z",
+        "description": "Japan - ENDO Wataru_395318_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/cf87fb9a-c1a7-4f3b-926f-862708caeaa3.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "KAMADA Daichi_448557_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------c0832b2de539dede056f71e4"
+      },
+      "body": {
+        "filename": "KAMADA Daichi_448557_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Japan - KAMADA Daichi_448557_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "90876b77-cb54-4305-9f88-ac510a8a3c7f",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/90876b77-cb54-4305-9f88-ac510a8a3c7f/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:36.673608Z",
+        "description": "Japan - KAMADA Daichi_448557_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/3af0250d-325b-4624-aa41-69d8abcd3936.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "KUBO Takefusa_403304_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------0c64f4604ddddfa545410868"
+      },
+      "body": {
+        "filename": "KUBO Takefusa_403304_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Japan - KUBO Takefusa_403304_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "41e74779-a067-434f-a712-da6a6ca76984",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/41e74779-a067-434f-a712-da6a6ca76984/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:37.178767Z",
+        "description": "Japan - KUBO Takefusa_403304_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/5199776c-4229-4148-866d-e3cfb0cd6c5b.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "TOMIYASU Takehiro_403289_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------bb85c0529b3df3cd13b273c0"
+      },
+      "body": {
+        "filename": "TOMIYASU Takehiro_403289_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Japan - TOMIYASU Takehiro_403289_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "41e206a9-76a2-43a2-8ac6-34040ca80529",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/41e206a9-76a2-43a2-8ac6-34040ca80529/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:37.749531Z",
+        "description": "Japan - TOMIYASU Takehiro_403289_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/344422d0-43b3-47b6-8e81-62fdf085caf0.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "UEDA Ayase_430413_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------40dda64110bd379658fc71f4"
+      },
+      "body": {
+        "filename": "UEDA Ayase_430413_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Japan - UEDA Ayase_430413_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "ef0e0212-2cfc-4a48-86e4-07292d39b14a",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/ef0e0212-2cfc-4a48-86e4-07292d39b14a/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:38.421545Z",
+        "description": "Japan - UEDA Ayase_430413_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/2b74b8eb-196d-4bf0-a31a-b66313eef547.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "GALLARDO Jesus_402772_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------6339aa8f1019174a83acb23f"
+      },
+      "body": {
+        "filename": "GALLARDO Jesus_402772_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Mexico - GALLARDO Jesus_402772_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "ba2d281e-6a45-4c12-91ce-a8271a0d332c",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/ba2d281e-6a45-4c12-91ce-a8271a0d332c/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:39.314469Z",
+        "description": "Mexico - GALLARDO Jesus_402772_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/b6c3df5c-8095-4c1c-a347-17895c539c47.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "GIMENEZ Santiago_430759_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------19c4c0fda128ce923e81e049"
+      },
+      "body": {
+        "filename": "GIMENEZ Santiago_430759_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Mexico - GIMENEZ Santiago_430759_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "ea074fda-b231-46b3-92c8-7014d51b2c00",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/ea074fda-b231-46b3-92c8-7014d51b2c00/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:40.158964Z",
+        "description": "Mexico - GIMENEZ Santiago_430759_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/204d0219-c3fe-4ba5-8475-fb4142146ca6.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "JIMENEZ Raul_356731_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------a01416ccd16eaf8f253d15b9"
+      },
+      "body": {
+        "filename": "JIMENEZ Raul_356731_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Mexico - JIMENEZ Raul_356731_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "ca30dac5-0e98-40e0-af4c-f3dbf0677506",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/ca30dac5-0e98-40e0-af4c-f3dbf0677506/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:40.805932Z",
+        "description": "Mexico - JIMENEZ Raul_356731_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/c3a6f641-eff1-4969-8299-c7fae6e44461.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "QUINONES Julian_429157_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------5d253b77600839f36c368ed2"
+      },
+      "body": {
+        "filename": "QUINONES Julian_429157_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Mexico - QUINONES Julian_429157_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "113fdea4-3445-4985-8872-1405712d3a12",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/113fdea4-3445-4985-8872-1405712d3a12/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:41.547398Z",
+        "description": "Mexico - QUINONES Julian_429157_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/1fa5a939-78ca-4d82-abf9-788402dcb2e4.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "ROMO Luis_430763_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------fdef8e0d6dca04d5dbead1a2"
+      },
+      "body": {
+        "filename": "ROMO Luis_430763_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Mexico - ROMO Luis_430763_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "909f274c-d7e3-4f2e-be97-1ee8e81b15c0",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/909f274c-d7e3-4f2e-be97-1ee8e81b15c0/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:42.061207Z",
+        "description": "Mexico - ROMO Luis_430763_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/b7623ac4-433d-4f4c-9605-9c2ff37476c7.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "BOUADDI Ayyoub_485760_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------0cc7c0b01261525bd578b5ad"
+      },
+      "body": {
+        "filename": "BOUADDI Ayyoub_485760_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Morocco - BOUADDI Ayyoub_485760_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "15f4672c-b742-4689-be91-1a123366109a",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/15f4672c-b742-4689-be91-1a123366109a/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:42.612736Z",
+        "description": "Morocco - BOUADDI Ayyoub_485760_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/45db30cd-f1d3-4c8f-8a96-14f86ffd0195.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "DIAZ Brahim_430740_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------6a5fbefa6bc0a897e44c1295"
+      },
+      "body": {
+        "filename": "DIAZ Brahim_430740_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Morocco - DIAZ Brahim_430740_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "9417331a-9521-48bf-ab04-044392e5b23b",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/9417331a-9521-48bf-ab04-044392e5b23b/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:43.282096Z",
+        "description": "Morocco - DIAZ Brahim_430740_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/8f950331-afe8-404c-9a52-838b803f9ba9.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "HAKIMI Achraf_400721_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------f53c1d0a839c8570accd9977"
+      },
+      "body": {
+        "filename": "HAKIMI Achraf_400721_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Morocco - HAKIMI Achraf_400721_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "75f7e91f-9025-4f6b-8c7c-64305c3316aa",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/75f7e91f-9025-4f6b-8c7c-64305c3316aa/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:44.084582Z",
+        "description": "Morocco - HAKIMI Achraf_400721_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/d08a1884-876e-4d58-8467-ed9ce2d1da75.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "OUNAHI Azzedine_441307_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------70a6d798728516ffa313a08c"
+      },
+      "body": {
+        "filename": "OUNAHI Azzedine_441307_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Morocco - OUNAHI Azzedine_441307_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "ed9e8691-979c-40c3-b841-aa88ce793f0e",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/ed9e8691-979c-40c3-b841-aa88ce793f0e/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:44.666722Z",
+        "description": "Morocco - OUNAHI Azzedine_441307_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/1008c5a4-3071-484f-8fc2-ca8ec98da322.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "SAIBARI Ismael_448598_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------2c6b676f431fc90c1552b8d3"
+      },
+      "body": {
+        "filename": "SAIBARI Ismael_448598_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Morocco - SAIBARI Ismael_448598_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "8719c3cb-4bf0-432c-89c1-fe29603d8b77",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/8719c3cb-4bf0-432c-89c1-fe29603d8b77/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:45.230570Z",
+        "description": "Morocco - SAIBARI Ismael_448598_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/f299ceec-854f-44fd-ab13-274d9abd0df7.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "BROBBEY Brian_424051_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------64a12708d4b0420e8a60bacd"
+      },
+      "body": {
+        "filename": "BROBBEY Brian_424051_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Netherlands - BROBBEY Brian_424051_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "3b2999e6-f894-441b-8f76-0b5ecf9d5db7",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/3b2999e6-f894-441b-8f76-0b5ecf9d5db7/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:45.939778Z",
+        "description": "Netherlands - BROBBEY Brian_424051_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/e5a545e4-889d-4eac-9c19-a7850c7013cc.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "DE JONG Frenkie_422657_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------995780648368e52c49de5ec4"
+      },
+      "body": {
+        "filename": "DE JONG Frenkie_422657_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Netherlands - DE JONG Frenkie_422657_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "0a78ce99-8c88-4814-b6be-d3aaa758bb94",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/0a78ce99-8c88-4814-b6be-d3aaa758bb94/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:46.559508Z",
+        "description": "Netherlands - DE JONG Frenkie_422657_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/acf58326-1f88-4635-ac28-321d725776e1.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "DEPAY Memphis_336098_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------54078e75ad4eb460bbdf7886"
+      },
+      "body": {
+        "filename": "DEPAY Memphis_336098_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Netherlands - DEPAY Memphis_336098_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "eb0f4fbb-4ef6-4d35-9b18-6ad00684ed3e",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/eb0f4fbb-4ef6-4d35-9b18-6ad00684ed3e/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:47.302661Z",
+        "description": "Netherlands - DEPAY Memphis_336098_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/2ae6aaea-82dd-45e0-80cc-d00769454d98.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "GAKPO Cody_448152_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------62cbd5647d53f0131019ed77"
+      },
+      "body": {
+        "filename": "GAKPO Cody_448152_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Netherlands - GAKPO Cody_448152_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "c2a45070-31d7-438c-9fec-cfd72c725ecc",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/c2a45070-31d7-438c-9fec-cfd72c725ecc/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:47.819717Z",
+        "description": "Netherlands - GAKPO Cody_448152_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/bef9fd83-c8fb-4f7c-9396-9d3a2caa99b2.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "REIJNDERS Tijjani_483526_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------6fc5b653106f84d2e4ee34c9"
+      },
+      "body": {
+        "filename": "REIJNDERS Tijjani_483526_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Netherlands - REIJNDERS Tijjani_483526_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "9cd62892-2ec3-4a52-b696-c79472606730",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/9cd62892-2ec3-4a52-b696-c79472606730/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:48.289594Z",
+        "description": "Netherlands - REIJNDERS Tijjani_483526_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/e5f785d6-8c8e-4b57-ad6d-ff73456fd5a3.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "JUST Elijah_405454_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------65b9c8da6a1f7ab18902ddde"
+      },
+      "body": {
+        "filename": "JUST Elijah_405454_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "New Zealand - JUST Elijah_405454_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "8f07de8d-b15c-4cbd-91a2-f120b833ae67",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/8f07de8d-b15c-4cbd-91a2-f120b833ae67/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:48.960289Z",
+        "description": "New Zealand - JUST Elijah_405454_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/e7a7589d-c428-4500-9637-af83425c4bdb.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "McCOWATT Callum_390196_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------d8066e86d8265728a967a706"
+      },
+      "body": {
+        "filename": "McCOWATT Callum_390196_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "New Zealand - McCOWATT Callum_390196_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "a248779b-b7f4-4680-8c30-d7a49151b9a8",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/a248779b-b7f4-4680-8c30-d7a49151b9a8/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:49.699770Z",
+        "description": "New Zealand - McCOWATT Callum_390196_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/eaa02c20-07eb-40c6-8e08-de9e0577e8f3.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "SINGH Sarpreet_390209_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------a6969b8f9c3111a8611dbc32"
+      },
+      "body": {
+        "filename": "SINGH Sarpreet_390209_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "New Zealand - SINGH Sarpreet_390209_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "2e7006c3-7f71-43ba-96fa-ca832fbae733",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/2e7006c3-7f71-43ba-96fa-ca832fbae733/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:50.281085Z",
+        "description": "New Zealand - SINGH Sarpreet_390209_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/c9b07852-8c02-4cfb-8f19-8879ca4ff4ce.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "STAMENIC Marko_423595_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------843a9f7cff239f5f0ff5b656"
+      },
+      "body": {
+        "filename": "STAMENIC Marko_423595_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "New Zealand - STAMENIC Marko_423595_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "0794c8ec-0ad3-484e-97f7-b6f7f9f1a733",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/0794c8ec-0ad3-484e-97f7-b6f7f9f1a733/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:50.781540Z",
+        "description": "New Zealand - STAMENIC Marko_423595_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/80096133-0830-4512-a9b5-a4af677ef2a3.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "WOOD Chris_274078_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------77c03b05daedba1f0c734a9e"
+      },
+      "body": {
+        "filename": "WOOD Chris_274078_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "New Zealand - WOOD Chris_274078_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "4c7ba4aa-ce37-4a2b-9a20-6a57b99e85cb",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/4c7ba4aa-ce37-4a2b-9a20-6a57b99e85cb/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:51.301765Z",
+        "description": "New Zealand - WOOD Chris_274078_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/616ea914-4b2d-4f19-886a-0a654ef86710.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "BERGE Sander_404645_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------8794de384af97129a4aa4d5d"
+      },
+      "body": {
+        "filename": "BERGE Sander_404645_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Norway - BERGE Sander_404645_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "009933a2-aad7-4eeb-859a-c1637248ece3",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/009933a2-aad7-4eeb-859a-c1637248ece3/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:52.086713Z",
+        "description": "Norway - BERGE Sander_404645_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/27acffe7-41ac-4804-801d-a5094c672401.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "HAALAND Erling_419652_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------2455a126deec2442254cd04d"
+      },
+      "body": {
+        "filename": "HAALAND Erling_419652_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Norway - HAALAND Erling_419652_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "063cb554-f6a0-4b13-854d-99cc309d78d0",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/063cb554-f6a0-4b13-854d-99cc309d78d0/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:52.624012Z",
+        "description": "Norway - HAALAND Erling_419652_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/09b5969b-c6c1-4066-9f57-330914f313e0.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "ODEGAARD Martin_400716_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------1acf560b51a8da2bdcf47993"
+      },
+      "body": {
+        "filename": "ODEGAARD Martin_400716_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Norway - ODEGAARD Martin_400716_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "612952f1-7a60-4615-b70a-3823bd25f6f2",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/612952f1-7a60-4615-b70a-3823bd25f6f2/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:53.335719Z",
+        "description": "Norway - ODEGAARD Martin_400716_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/cbc763f2-b575-49aa-ae77-bc87ed45c98e.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "SORLOTH Alexander_398588_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------b9f5656a4e00eb9acd19a10a"
+      },
+      "body": {
+        "filename": "SORLOTH Alexander_398588_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Norway - SORLOTH Alexander_398588_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "ae5bf3ed-b5c3-408d-bbbb-882810728250",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/ae5bf3ed-b5c3-408d-bbbb-882810728250/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:53.842482Z",
+        "description": "Norway - SORLOTH Alexander_398588_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/3d230284-6602-48da-a201-daaafb9a271d.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "STRAND LARSEN Jorgen_419662_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------97f42f3d5672a028be1cff39"
+      },
+      "body": {
+        "filename": "STRAND LARSEN Jorgen_419662_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Norway - STRAND LARSEN Jorgen_419662_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "d20ef6e6-f7d0-4540-a60b-9c040e2a9b0d",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/d20ef6e6-f7d0-4540-a60b-9c040e2a9b0d/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:54.394141Z",
+        "description": "Norway - STRAND LARSEN Jorgen_419662_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/437dffeb-e27e-4916-a98e-2df48ec6dfb8.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "ALMIRON Miguel_369761_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------437aafb0294b77e53fdd1936"
+      },
+      "body": {
+        "filename": "ALMIRON Miguel_369761_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Paraguay - ALMIRON Miguel_369761_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "bdebcfb8-aac6-48ec-a486-c6da779154d0",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/bdebcfb8-aac6-48ec-a486-c6da779154d0/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:54.918373Z",
+        "description": "Paraguay - ALMIRON Miguel_369761_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/78ab0459-2bcd-4aa6-a53b-49192886102d.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "ENCISO Julio_441234_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------aed898a67f2ae14888a5cac4"
+      },
+      "body": {
+        "filename": "ENCISO Julio_441234_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Paraguay - ENCISO Julio_441234_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "103e9f13-cb55-4f48-83ff-03890b37f569",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/103e9f13-cb55-4f48-83ff-03890b37f569/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:55.720059Z",
+        "description": "Paraguay - ENCISO Julio_441234_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/cbeb5c25-f145-47d2-892e-8fe2ddd1eabd.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "GOMEZ Diego_463128_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------9f4527ce15c2a79a902b2416"
+      },
+      "body": {
+        "filename": "GOMEZ Diego_463128_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Paraguay - GOMEZ Diego_463128_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "297061c2-6fc8-4265-80f6-e951f13482b7",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/297061c2-6fc8-4265-80f6-e951f13482b7/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:56.365142Z",
+        "description": "Paraguay - GOMEZ Diego_463128_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/2e528d26-3559-40d5-88ba-283512f4600c.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "MAURICIO_495046_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------9883b6a0d120521dcdb4abd5"
+      },
+      "body": {
+        "filename": "MAURICIO_495046_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Paraguay - MAURICIO_495046_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "a2694203-5ef7-4b1b-8f7c-d33889ceca67",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/a2694203-5ef7-4b1b-8f7c-d33889ceca67/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:56.960334Z",
+        "description": "Paraguay - MAURICIO_495046_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/bfa90abf-ad13-413c-b292-139b34bfc38a.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "SANABRIA Antonio_369768_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------0131368e917905e75f6c6aa1"
+      },
+      "body": {
+        "filename": "SANABRIA Antonio_369768_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Paraguay - SANABRIA Antonio_369768_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "a51c390c-eef9-444b-b946-1ce414e41e31",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/a51c390c-eef9-444b-b946-1ce414e41e31/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:57.807612Z",
+        "description": "Paraguay - SANABRIA Antonio_369768_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/5b65e9c4-3a26-4c23-b0c6-dd94a962f96b.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "BERNARDO SILVA_395205_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------78111a368c06d4239c60ed87"
+      },
+      "body": {
+        "filename": "BERNARDO SILVA_395205_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Portugal - BERNARDO SILVA_395205_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "7753433e-bae2-4e96-8210-c70b0cf60a8c",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/7753433e-bae2-4e96-8210-c70b0cf60a8c/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:58.612227Z",
+        "description": "Portugal - BERNARDO SILVA_395205_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/fd318dfa-43a5-4a16-b502-5710993c283f.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "BRUNO FERNANDES_395206_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------6b368b708dc985b8bb1131e7"
+      },
+      "body": {
+        "filename": "BRUNO FERNANDES_395206_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Portugal - BRUNO FERNANDES_395206_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "e6abfaa2-fde5-4f94-b2ac-8fa7eec0da30",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/e6abfaa2-fde5-4f94-b2ac-8fa7eec0da30/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:59.171431Z",
+        "description": "Portugal - BRUNO FERNANDES_395206_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/7b109dd5-82df-4cea-b957-723ed74bf033.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "CRISTIANO RONALDO_201200_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------cc84a9f69852f70b2f90c280"
+      },
+      "body": {
+        "filename": "CRISTIANO RONALDO_201200_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Portugal - CRISTIANO RONALDO_201200_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "2f737346-a512-44c7-8b66-7508cef30911",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/2f737346-a512-44c7-8b66-7508cef30911/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:22:59.699359Z",
+        "description": "Portugal - CRISTIANO RONALDO_201200_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/64bdd7aa-e66d-4606-8178-228034276660.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "JOAO NEVES_484141_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------b1e09babe5df7fec012e5b94"
+      },
+      "body": {
+        "filename": "JOAO NEVES_484141_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Portugal - JOAO NEVES_484141_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "550c04d2-551a-431c-86ef-9757f14c1bc2",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/550c04d2-551a-431c-86ef-9757f14c1bc2/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:00.219434Z",
+        "description": "Portugal - JOAO NEVES_484141_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/b96e8a4e-a65f-41f9-88cf-c7ad8352ee0a.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "VITINHA_441149_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------49a318ab5e794a9dfb7e8805"
+      },
+      "body": {
+        "filename": "VITINHA_441149_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Portugal - VITINHA_441149_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "cbd09707-c538-469a-8491-14485fa48641",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/cbd09707-c538-469a-8491-14485fa48641/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:00.815457Z",
+        "description": "Portugal - VITINHA_441149_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/c90791c4-564d-41b8-b61f-4d5bbcd831d1.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "IDRISSA GANA GUEYE_332314_1_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------8775dcbebc1c7aa572e21344"
+      },
+      "body": {
+        "filename": "IDRISSA GANA GUEYE_332314_1_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Senegal - IDRISSA GANA GUEYE_332314_1_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "61d59d32-981d-4b52-aa62-c1d2d1ffe5b3",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/61d59d32-981d-4b52-aa62-c1d2d1ffe5b3/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:01.310338Z",
+        "description": "Senegal - IDRISSA GANA GUEYE_332314_1_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/2ff50635-5a89-4b4f-9743-dbcd3b60eb59.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "JACKSON Nicolas_418795_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------0e24e7447fbfcd9a74e84897"
+      },
+      "body": {
+        "filename": "JACKSON Nicolas_418795_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Senegal - JACKSON Nicolas_418795_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "81ef0e89-b374-412b-b8cb-8e80e31f5b54",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/81ef0e89-b374-412b-b8cb-8e80e31f5b54/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:01.801637Z",
+        "description": "Senegal - JACKSON Nicolas_418795_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/31693554-8cf7-4ac7-a744-4577d16b7313.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "MANE Sadio_353790_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------48fc35c9999b6f17012c025a"
+      },
+      "body": {
+        "filename": "MANE Sadio_353790_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Senegal - MANE Sadio_353790_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "07a0c1bb-a8aa-4949-93a2-de0a05923ff6",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/07a0c1bb-a8aa-4949-93a2-de0a05923ff6/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:02.576550Z",
+        "description": "Senegal - MANE Sadio_353790_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/bcc2029b-5794-4ef9-be49-5ef17f11f99b.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "NDIAYE Iliman_448815_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------61ac6167828f1c94ce400f23"
+      },
+      "body": {
+        "filename": "NDIAYE Iliman_448815_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Senegal - NDIAYE Iliman_448815_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "79166669-2c58-4f59-add8-4448ddd43762",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/79166669-2c58-4f59-add8-4448ddd43762/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:03.353388Z",
+        "description": "Senegal - NDIAYE Iliman_448815_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/c616825d-7f78-4faf-a5c5-644d4bf54b7c.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "SARR Ismaila_401889_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------e904818048f50fc1868725ac"
+      },
+      "body": {
+        "filename": "SARR Ismaila_401889_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Senegal - SARR Ismaila_401889_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "8d733225-b9f2-485b-a44a-af5232054836",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/8d733225-b9f2-485b-a44a-af5232054836/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:03.857402Z",
+        "description": "Senegal - SARR Ismaila_401889_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/5b5b2369-6714-4d3b-b56f-ae99c2ea7f81.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "OYARZABAL Mikel_430751_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------61a191e5b476fa9e551aadd3"
+      },
+      "body": {
+        "filename": "OYARZABAL Mikel_430751_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Spain - OYARZABAL Mikel_430751_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "48d3d708-0dcd-4271-9e39-360f36b04e6f",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/48d3d708-0dcd-4271-9e39-360f36b04e6f/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:04.721252Z",
+        "description": "Spain - OYARZABAL Mikel_430751_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/084a1998-ce1f-4df7-b404-11e4cc203109.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "PEDRI_423646_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------746d6eb321c0e9785c938ee5"
+      },
+      "body": {
+        "filename": "PEDRI_423646_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Spain - PEDRI_423646_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "31834623-0983-485a-a498-b3ff4b946a4e",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/31834623-0983-485a-a498-b3ff4b946a4e/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:05.246617Z",
+        "description": "Spain - PEDRI_423646_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/25e4cf39-d0e2-4310-8768-7be3de30943b.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "RODRI_411375_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------3300d3e0fc8352db35e9df22"
+      },
+      "body": {
+        "filename": "RODRI_411375_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Spain - RODRI_411375_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "04890d80-6ce6-44a2-b59f-cdd2559da5db",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/04890d80-6ce6-44a2-b59f-cdd2559da5db/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:05.955046Z",
+        "description": "Spain - RODRI_411375_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/452f545f-6a7e-41ca-a384-7c6714f1d329.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "WILLIAMS Nico_447855_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------4acb16f0b5629f6e58495a09"
+      },
+      "body": {
+        "filename": "WILLIAMS Nico_447855_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Spain - WILLIAMS Nico_447855_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "0572dd20-206f-41ae-8058-f60510d54edc",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/0572dd20-206f-41ae-8058-f60510d54edc/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:06.536844Z",
+        "description": "Spain - WILLIAMS Nico_447855_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/92608ba7-0542-47b7-b47b-5709fcf150ac.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "YAMAL Lamine_484320_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------e44a8eba097f0a8b60e7d6c4"
+      },
+      "body": {
+        "filename": "YAMAL Lamine_484320_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Spain - YAMAL Lamine_484320_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "986a98f6-0bc7-404d-a8bd-8bd717cbac93",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/986a98f6-0bc7-404d-a8bd-8bd717cbac93/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:07.140165Z",
+        "description": "Spain - YAMAL Lamine_484320_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/33e1dbe3-36a9-4190-b1b3-38f3893bee98.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "EMBOLO Breel_393480_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------ed6428cc77227a9fb4af062f"
+      },
+      "body": {
+        "filename": "EMBOLO Breel_393480_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Switzerland - EMBOLO Breel_393480_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "d054041f-1405-4ce5-9963-3f55c4614f17",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/d054041f-1405-4ce5-9963-3f55c4614f17/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:07.835946Z",
+        "description": "Switzerland - EMBOLO Breel_393480_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/eb1b67f9-35ff-4ae8-8954-33b2d71d344f.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "OKAFOR Noah_448127_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------587ca9539e67f7996a6b36c3"
+      },
+      "body": {
+        "filename": "OKAFOR Noah_448127_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Switzerland - OKAFOR Noah_448127_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "117c3214-e51d-484a-95d5-322d2d5aed7f",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/117c3214-e51d-484a-95d5-322d2d5aed7f/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:08.453594Z",
+        "description": "Switzerland - OKAFOR Noah_448127_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/f8b79f38-c0b4-4102-b565-5ee13e1b1fc0.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "VARGAS Ruben_448131_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------f22de467729aa6dbcd6222bc"
+      },
+      "body": {
+        "filename": "VARGAS Ruben_448131_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Switzerland - VARGAS Ruben_448131_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "a9a0f576-42cf-4694-b85e-072abec2d7ec",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/a9a0f576-42cf-4694-b85e-072abec2d7ec/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:09.191225Z",
+        "description": "Switzerland - VARGAS Ruben_448131_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/bb18804d-6e32-48bf-a4d7-c4f59bce0a82.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "XHAKA Granit_311558_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------dace9812b4c09c081b31dea5"
+      },
+      "body": {
+        "filename": "XHAKA Granit_311558_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Switzerland - XHAKA Granit_311558_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "ce3ebe4c-4db3-45b9-9a50-6addc63700a5",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/ce3ebe4c-4db3-45b9-9a50-6addc63700a5/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:09.757471Z",
+        "description": "Switzerland - XHAKA Granit_311558_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/ac658a52-72ff-4022-8e84-6ae07cd573f3.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "ZAKARIA Denis_401448_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------c08819daa26f0e0b5cd051c9"
+      },
+      "body": {
+        "filename": "ZAKARIA Denis_401448_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "Switzerland - ZAKARIA Denis_401448_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "0dd0f9e5-d1e8-47b1-966c-10c995946a42",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/0dd0f9e5-d1e8-47b1-966c-10c995946a42/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:10.339627Z",
+        "description": "Switzerland - ZAKARIA Denis_401448_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/fead51d3-217b-4230-9a59-5e8d5d08047a.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "AARONSON Brenden_419055_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------689ca19ab90c34b64ae93657"
+      },
+      "body": {
+        "filename": "AARONSON Brenden_419055_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "USA - AARONSON Brenden_419055_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "8f4e07fa-a439-4cb9-8a58-42b04da8baad",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/8f4e07fa-a439-4cb9-8a58-42b04da8baad/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:10.892276Z",
+        "description": "USA - AARONSON Brenden_419055_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/cce58ad3-4e02-4a78-8542-1cbbc1b68008.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "BALOGUN Folarin_466624_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------e117cedec698ec097e2c5cc3"
+      },
+      "body": {
+        "filename": "BALOGUN Folarin_466624_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "USA - BALOGUN Folarin_466624_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "c86f2573-fe9a-4e94-8a84-aa4b0ab21cca",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/c86f2573-fe9a-4e94-8a84-aa4b0ab21cca/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:11.476029Z",
+        "description": "USA - BALOGUN Folarin_466624_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/0efebc3a-6d00-42b1-9018-30ebf3d75a64.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "DEST Sergino_406280_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------67d9abb638e5ad551da64224"
+      },
+      "body": {
+        "filename": "DEST Sergino_406280_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "USA - DEST Sergino_406280_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "a300fa24-90e4-40e7-8675-276254f91b01",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/a300fa24-90e4-40e7-8675-276254f91b01/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:12.301806Z",
+        "description": "USA - DEST Sergino_406280_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/77b2af57-5bd8-47c6-9edc-16cbca3e7bfd.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "McKENNIE Weston_390259_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------cd8755001f12b20b1a3d8e5e"
+      },
+      "body": {
+        "filename": "McKENNIE Weston_390259_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "USA - McKENNIE Weston_390259_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "c8284d72-10f1-4e4d-bdae-e7b4db0021d9",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/c8284d72-10f1-4e4d-bdae-e7b4db0021d9/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:12.931985Z",
+        "description": "USA - McKENNIE Weston_390259_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/7053bb8a-13a2-4141-94ce-535d964d6d34.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  },
+  {
+    "success": true,
+    "file": "PULISIC Christian_390267_256.png",
+    "request": {
+      "url": "https://cf-blast.livelikecdn.com/api/v1/media/",
+      "method": "POST",
+      "headers": {
+        "Authorization": "Bearer zLtITkyfJQQZje8CteZfq_QCmtJrp8TMoMj6gs9b0BdnzB5On0t6Mg",
+        "content-type": "multipart/form-data; boundary=--------------------------0085adbfb8a2b693eb64a231"
+      },
+      "body": {
+        "filename": "PULISIC Christian_390267_256.png",
+        "contentType": "image/png",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "description": "USA - PULISIC Christian_390267_256"
+      }
+    },
+    "response": {
+      "status": 201,
+      "data": {
+        "id": "fcfd4836-d7bd-4b96-814d-0c8c73d3e3e3",
+        "url": "https://cf-blast.livelikecdn.com/api/v1/media/fcfd4836-d7bd-4b96-814d-0c8c73d3e3e3/",
+        "client_id": "UxJPBpYzeFBXwzAyA7LcKtLX5CxucXFqbgxp8jMs",
+        "created_at": "2026-06-29T09:23:13.643578Z",
+        "description": "USA - PULISIC Christian_390267_256",
+        "file": "https://cf-blast-storage.livelikecdn.com/assets/61b1848b-04d0-4bbe-973e-22a7fbbdb82e.png",
+        "mimetype": "image/png",
+        "tags": []
+      }
+    }
+  }
+]

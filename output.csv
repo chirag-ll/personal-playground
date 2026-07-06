@@ -228,4 +228,13 @@ homeTeam,awayTeam,matchDateUtc,stadiumName,status
 "Napoli","Udinese","2026-05-24T13:00:00Z","Diego Armando Maradona","UPCOMING"
 "Parma","Sassuolo","2026-05-24T13:00:00Z","Ennio Tardini","UPCOMING"
 "Torino","Juventus","2026-05-24T13:00:00Z","Olimpico - Grande Torino","UPCOMING"
-"Hellas Verona","Roma","2026-05-24T13:00:00Z","Marcantonio Bentegodi","UPCOMING"
+"Hellas Verona","Roma","2026-05-24T13:00:00Z","Marcantonio Bentegodi","UPCOMING""RPS100000001","ERROR","Waiting for element to be located By(css selector, table)
+Wait timed out after 10007ms"
+"RPS100000002","ERROR","Waiting for element to be located By(css selector, table)
+Wait timed out after 10198ms"
+"RPS100000001","ERROR","no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.217)"
+"RPS100000002","ERROR","no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=148.0.7778.217)"

@@ -2,24 +2,55 @@
 /// <reference types="../global" />
 
 import Script from "next/script";
-import { useState } from "react";
+import { useEffect, useState, useRef } from "react";
 import React from "react";
 
-
 export default function Page() {
-    let [widget, setWidget] = useState(false);
+    const [widget, setWidget] = useState(false);
+    const widgetsRef = useRef<HTMLElement | null>(null);
+
+    useEffect(() => {
+        if (!widget || !widgetsRef.current) return;
+
+        const widgetsNode = widgetsRef.current;
+
+        const onDismiss = (ev: Event) => {
+            console.log('Widget Dismissed', { widgetId: (ev as CustomEvent).detail.widget.id });
+        };
+
+        const onInteract = (ev: Event) => {
+            console.log('Widget Interacted', { widgetId: (ev as CustomEvent).detail.widget.id });
+        };
+
+        widgetsNode.addEventListener('dismiss', onDismiss);
+        ['vote', 'answer', 'cheer'].forEach(name => widgetsNode.addEventListener(name, onInteract));
+
+        return () => {
+            widgetsNode.removeEventListener('dismiss', onDismiss);
+            ['vote', 'answer', 'cheer'].forEach(name => widgetsNode.removeEventListener(name, onInteract));
+        };
+    }, [widget]);
 
     const LivelikeScriptLoaded = () => {
-        let ll = window.LiveLike.init({clientId: 'cE5S4ztbPU0DkDL0kedg3TiyGVXb5uDg7KvPYlRm'});
+        window.LiveLike.init({ clientId: 'cE5S4ztbPU0DkDL0kedg3TiyGVXb5uDg7KvPYlRm' });
         window.LiveLike.setLanguage('aa');
         setWidget(true);
-
-    }
+    };
 
     return (
-    <>
-        <Script src="https://unpkg.com/@livelike/engagementsdk@2.59.0/livelike.umd.js" onLoad={LivelikeScriptLoaded}>
-        </Script>
-        {widget ? React.createElement('livelike-widgets', { programid: "19502c99-b286-4e54-921b-97a9a04e101d", mode: "timeline" }) : (<p>SDK not loaded</p>)}
-    </>)
+        <>
+            <Script
+                src="https://unpkg.com/@livelike/engagementsdk@2.59.0/livelike.umd.js"
+                onLoad={LivelikeScriptLoaded}
+            />
+            {widget
+                ? React.createElement('livelike-widgets', {
+                    ref: widgetsRef,
+                    programid: "95bd6abc-f738-4db5-af18-5d32c7dc69ee",
+                    mode: "timeline"
+                  })
+                : <p>SDK not loaded</p>
+            }
+        </>
+    );
 }

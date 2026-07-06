@@ -1,0 +1,106 @@
+const { Builder, By, Key, until } = require("selenium-webdriver");
+const fs = require("fs");
+
+const URL = "https://yamunaexpresswayauthority.com/web/forms/rps10_04_06_2026.php";
+const START = 1;
+const END = 2;
+
+async function run() {
+    const driver = await new Builder()
+        .forBrowser("chrome")
+        .build();
+
+    const output = fs.createWriteStream("output.csv", {
+        flags: "a",
+        encoding: "utf8"
+    });
+
+    try {
+        await driver.get(URL);
+
+        for (let i = START; i <= END; i++) {
+            const applicationId =
+                `RPS100${String(i).padStart(6, "0")}`;
+
+            try {
+                console.log(`Processing ${applicationId}`);
+
+                const input = await driver.wait(
+                    until.elementLocated(By.id("form_id")),
+                    10000
+                );
+
+                await input.clear();
+                await input.sendKeys(applicationId, Key.ENTER);
+
+                const button = await driver.wait(
+                    until.elementLocated(By.id("btn")),
+                    10000
+                );
+
+                await button.click();
+                await driver.sleep(2000);
+
+                const pageText = await driver.findElement(By.tagName("p")).getText();
+
+                if (pageText.includes("No data found.")) {
+                    console.log(`${applicationId} - No data found`);
+
+                    output.write(`"${applicationId}","NO_DATA"\n`);
+
+                    output.close();
+                    await driver.quit();
+                    return; // stop execution
+                }
+
+
+                const table = await driver.wait(
+                    until.elementLocated(By.css("table")),
+                    10000
+                );
+
+                const rows = await table.findElements(By.css("tr"));
+
+                for (const row of rows) {
+                    const cols = await row.findElements(
+                        By.css("th, td")
+                    );
+
+                    const values = [];
+
+                    for (const col of cols) {
+                        const text = await col.getText();
+                        values.push(
+                            `"${text.replace(/"/g, '""')}"`
+                        );
+                    }
+
+                    output.write(
+                        `"${applicationId}",${values.join(",")}\n`
+                    );
+                }
+
+                output.flush?.();
+
+            } catch (err) {
+                console.error(
+                    `Failed ${applicationId}:`,
+                    err.message
+                );
+
+                output.write(
+                    `"${applicationId}","ERROR","${err.message}"\n`
+                );
+            }
+
+            // 3 second delay
+            await driver.sleep(3000);
+        }
+
+    } finally {
+        output.close();
+        await driver.quit();
+    }
+}
+
+run().catch(console.error);

@@ -67,7 +67,7 @@ export default function CustomWidgetsPage() {
         <emoji-slider
           widgetid="b3308193-b5b2-4a1e-84d2-24d79056ddc5"
           kind="emoji-slider" /> */}
-        <text-poll
+        <livelike-text-poll
           widgetid="a627414b-235a-4aa2-b685-868e5f8e4f4f"
           kind="text-poll"
         />

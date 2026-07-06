@@ -12,9 +12,10 @@ const claims = {
   // "iss": 'Zl5S9r8m7xwK1g3IVbDawdQl9n1WKxraWzq3za1g',
   // Paysafe Demo - Application
   // "iat": getUnixTimestampUTC() - 300,
-  "iss": '6372l9tCxvqemEwOcFO6VRzqrKexiQBZGS97M6l2',
+  // "iss": '6372l9tCxvqemEwOcFO6VRzqrKexiQBZGS97M6l2',
+  "iss": "6372l9tCxvqemEwOcFO6VRzqrKexiQBZGS97M6l2",
   "iat": 1767677174,
-  "custom_profile_id": "1100000002856384",
+  "custom_profile_id": "1100000001729044",
 }
 
 // const serie_a_client_secret = "Ryv7Sn4GN1CUdNYItCnR1H7NFCS8mgU3Opki-Q9c5r5e-DEPybBklw"; 
