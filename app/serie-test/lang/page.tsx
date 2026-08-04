@@ -1,8 +1,6 @@
 'use client';
 
 import { useEffect } from 'react';
-import * as LiveLike from '@livelike/custom-widgets';
-
 import '@livelike/custom-widgets/dist/livelike.css';
 import { useState } from 'react';
 
@@ -11,6 +9,7 @@ export default function CustomWidgetsPage() {
   const [loadSlider, setLoadSlider] = useState(false);
 
   const loadLiveLikeSdk = async () => {
+    const LiveLike = await import('@livelike/custom-widgets');
     await LiveLike.LiveLikeInit({ clientId: '2kjHYGQp5CEgOj1Eul6IQ2rMMeMoSNdN577LlEJu', lang: 'ar' });
     setLoadSlider(true);
   }

@@ -18,19 +18,17 @@ export default function Page() {
     const getReactionSpaceDetail = (reactionSpaceId: string) => {
         window.LiveLike.getReactionSpaceDetail({
             targetGroupId: "es_italy_reaction_space",
-        }).then(reactionSpace => console.log(reactionSpace));
+        }).then((reactionSpace: unknown) => console.log(reactionSpace));
         getUserReactionsCount(reactionSpaceId);
     };
 
     const getUserReactionsCount = (reactionSpaceId: string) => {
-        LiveLike.getUserReactionsCount({
-            reactionSpaceId: reactionSpaceId,
+        window.LiveLike.getUserReactionsCount({
+            reactionSpaceId,
             targetIds: ["livecommentitem:1664011", "livecommentitem:1663861"],
-        }).then(reaction => {
+        }).then((reaction: unknown) => {
             console.log(reaction);
-            <livelike-reaction targetGroupId="es_italy_reaction_space" targetId="livecommentitem:1664011"></livelike-reaction>
         });
-
     };
 
     // const loadReactionDetails = () => {

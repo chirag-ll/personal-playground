@@ -1,11 +1,11 @@
 'use client';
 
 import '@livelike/engagementsdk';
-import LiveLike, {LiveLikeWidgets} from '@livelike/engagementsdk';
+import LiveLike from '@livelike/engagementsdk';
 
 const html = (window as any).html;
 
-class CustomWidgets extends LiveLikeWidgets {
+class CustomWidgets extends (window as any).LiveLikeWidgets {
 
   protected createRenderRoot() {
     return this;
@@ -21,13 +21,13 @@ class CustomWidgets extends LiveLikeWidgets {
             case 'text-poll':
             case 'text-prediction':
                 widgetPayload.question = widgetPayload.localized_data[LiveLike.getLanguage()]?.question || widgetPayload.question;
-                widgetPayload.options.forEach(option => {
+                widgetPayload.options.forEach((option: any) => {
                     option.description = option.localized_data[LiveLike.getLanguage()]?.description || option.description;
                 })
                 break;
             case 'text-quiz':
                 widgetPayload.question = widgetPayload.localized_data[LiveLike.getLanguage()]?.question || widgetPayload.question;
-                widgetPayload.choices.forEach(choice => {
+                widgetPayload.choices.forEach((choice: any) => {
                     choice.description = choice.localized_data[LiveLike.getLanguage()]?.description || choice.description;
                 })
                 break;

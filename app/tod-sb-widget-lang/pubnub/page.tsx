@@ -1,7 +1,5 @@
 'use client';
 
-import '@livelike/engagementsdk';
-import './custom-widgets';
 import { useEffect, useState } from 'react';
 
 export default function Page() {
@@ -9,9 +7,21 @@ export default function Page() {
     let [sdkLoaded, setSdkLoaded] = useState(false);
 
     useEffect(() => {
-        const ll = LiveLike.init({ clientId: 'murJlrT422d2Qpa2jcPK32er1WObqdmXggyVI5tg' });
-        LiveLike.setLanguage('ar');
-        setSdkLoaded(true);
+        let cancelled = false;
+
+        (async () => {
+            await import('@livelike/engagementsdk');
+            await import('./custom-widgets');
+
+            if (cancelled) return;
+            const ll = window.LiveLike?.init({ clientId: 'murJlrT422d2Qpa2jcPK32er1WObqdmXggyVI5tg' });
+            window.LiveLike?.setLanguage('ar');
+            setSdkLoaded(true);
+        })();
+
+        return () => {
+            cancelled = true;
+        };
     }, []);
 
   return (

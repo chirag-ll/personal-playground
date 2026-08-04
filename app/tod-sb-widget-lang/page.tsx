@@ -1,16 +1,15 @@
 'use client';
 /// <reference types="../global" />
 
-import Script from "next/script";
 import { useState } from "react";
 import React from "react";
-import LiveLike, { LiveLikeWidgets } from "@livelike/engagementsdk";
 
 
 export default function ChatThrottle() {
     let [widget, setWidget] = useState(false);
 
-    const LivelikeScriptLoaded = () => {
+    const LivelikeScriptLoaded = async () => {
+        const LiveLike = (await import("@livelike/engagementsdk")).default;
         // let ll = window.LiveLike.init({clientId: 'murJlrT422d2Qpa2jcPK32er1WObqdmXggyVI5tg', lang: 'ar'});
         let ll = window.LiveLike.init({clientId: 'cE5S4ztbPU0DkDL0kedg3TiyGVXb5uDg7KvPYlRm', lang: 'ar'});
         

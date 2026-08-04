@@ -24,10 +24,10 @@ export default function SerieTestPage() {
 
         // Load the test component (defines customElements) only in browser
         try {
-          await import('./test.tsx');
+          await import("./test");
         } catch (e) {
           // ignore failures to load the test helper
-          console.warn('Could not load test.tsx:', e);
+          console.warn("Could not load test helper:", e);
         }
       } catch (err) {
         console.error("LiveLike init failed", err);

@@ -1,9 +1,6 @@
 'use client';
 
 import { useEffect, useRef, useState } from 'react';
-import * as LiveLikeNS from '@livelike/engagementsdk';
-
-const LiveLike: any = (LiveLikeNS as any).default ?? LiveLikeNS;
 
 export default function MyComponent() {
     const [ready, setReady] = useState(false);
@@ -12,12 +9,16 @@ export default function MyComponent() {
 
     useEffect(() => {
         let cancelled = false;
-        LiveLike.init({ clientId: 'cE5S4ztbPU0DkDL0kedg3TiyGVXb5uDg7KvPYlRm' })
-            .then(() => { if (!cancelled) setReady(true); })
-            .catch((err: any) => {
+        (async () => {
+            try {
+                const LiveLike = (await import('@livelike/engagementsdk')).default;
+                await LiveLike.init({ clientId: 'cE5S4ztbPU0DkDL0kedg3TiyGVXb5uDg7KvPYlRm' });
+                if (!cancelled) setReady(true);
+            } catch (err: any) {
                 console.error('SDK init failed:', err);
                 if (!cancelled) setError('Failed to initialize SDK.');
-            });
+            }
+        })();
         return () => { cancelled = true; };
     }, []);
 
@@ -32,6 +33,7 @@ export default function MyComponent() {
                 await customElements.whenDefined('livelike-widgets');
                 if (cancelled) return;
 
+                const LiveLike = (await import('@livelike/engagementsdk')).default;
                 const widgetPayload = await LiveLike.getWidget({
                     kind: 'text-poll',
                     id: '38d9d43f-3d6a-4114-86fa-e83f2f62c700',

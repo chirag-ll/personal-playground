@@ -1,6 +1,5 @@
 'use client';
 
-import * as LiveLike from "@livelike/widget-elements";
 import { useEffect, useState } from "react";
 
 export default function WtaPage() {
@@ -8,6 +7,7 @@ export default function WtaPage() {
   const [loadSlider, setLoadSlider] = useState(false);
 
   const loadLiveLikeSdk = async () => {
+    const LiveLike = await import("@livelike/widget-elements");
     // await LiveLike.LiveLikeInit({ clientId: '9MxRnhmq0Wkv89ESZciLBNY8ttjKce3VkSj8Te4G', accessToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3ODM1MTQ1OTgsImNsaWVudF9pZCI6IjlNeFJuaG1xMFdrdjg5RVNaY2lMQk5ZOHR0aktjZTNWa1NqOFRlNEciLCJpc3MiOiJibGFzdHJ0IiwiYWNjZXNzX3Rva2VuIjoiNzMxN2I4MzU3OTMzNjg0ODlhNTdjZDRmMGQzNjcwNmMxZGIwZDJjMyIsImlkIjoiZTI4NzgwODQtNjAwYS00YWRiLWFjMjItNTEyMDg4MDliZGQyIn0.r_hIAR2hl5s1mJYCRk2c0wg4Dmkbd2Jzo6vydte7G2Q" });
     await LiveLike.LiveLikeInit({ clientId: '9MxRnhmq0Wkv89ESZciLBNY8ttjKce3VkSj8Te4G' });
     setLoadSlider(true);

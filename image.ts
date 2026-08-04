@@ -2,11 +2,11 @@ const url = 'https://media-sdp.legaseriea.it/playerImages/ec93b94f74294dc98ab5bc
 const https = require("https");
 const fs = require("fs");
 
-function downloadWebp(url, outputPath) {
+function downloadWebp(url: string, outputPath: string) {
   return new Promise((resolve, reject) => {
     const file = fs.createWriteStream(outputPath);
 
-    https.get(url, (res) => {
+    https.get(url, (res: any) => {
       if (res.statusCode !== 200) {
         reject(new Error(`Failed: ${res.statusCode}`));
         return;
@@ -19,7 +19,7 @@ function downloadWebp(url, outputPath) {
         file.close();
         resolve(outputPath);
       });
-    }).on("error", (err) => {
+    }).on("error", (err: any) => {
       fs.unlink(outputPath, () => {});
       reject(err);
     });

@@ -1,16 +1,17 @@
 
 // import { LiveLikeQuiz } from "@livelike/engagementsdk";
-import "./quiz.css";
 // import { handleInvokeReward } from "../../utils/handleInvokeReward";
 const html = (window as any).html;
 
 class LGTextQuiz extends window.LiveLikeQuiz {
-  @((window as any).property({ type: Object })) optionSelectedByUser: Record<
-    string,
-    string
-  > = {};
-
-  @((window as any).property({ type: Boolean })) isExpired = false;
+  optionSelectedByUser: Record<string, string> = {};
+  isExpired = false;
+  selectedOption: any = null;
+  voteDisable = false;
+  disabled = false;
+  quizVoteSubmitted = false;
+  interaction: any = null;
+  widgetPayload: any = null;
 
   connectedCallback() {
     super.connectedCallback();
@@ -98,3 +99,5 @@ class LGTextQuiz extends window.LiveLikeQuiz {
 }
 
 customElements.define("lg-text-quiz", LGTextQuiz as any);
+
+export default LGTextQuiz;
