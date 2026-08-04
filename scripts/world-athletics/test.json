@@ -1,0 +1,59 @@
+{
+    "id": "LS012",
+    "matchState": "N",
+    "displaySequence": 6,
+    "finished": false,
+    "displayName": "",
+    "resultScore": "",
+    "roundRobinGroup": "",
+    "players": [
+        {
+            "order": 0,
+            "playerDisplayLine": "Mai Hontama",
+            "id": "324750",
+            "firstName": "Mai",
+            "lastName": "Hontama",
+            "team": "A",
+            "nationality": {
+                "code": "JPN",
+                "name": "Japan",
+                "region": "ASIA"
+            },
+            "seed": null
+        },
+        {
+            "order": 0,
+            "playerDisplayLine": "Lilli Tagger",
+            "id": "332150",
+            "firstName": "Lilli",
+            "lastName": "Tagger",
+            "team": "A",
+            "nationality": {
+                "code": "AUT",
+                "name": "Austria",
+                "region": "EUR"
+            },
+            "seed": null
+        }
+    ],
+    "scores": [],
+    "schedule": {
+        "scheduledDate": "2026-07-23",
+        "scheduledTime": "2026-07-23T09:00:00Z",
+        "estimatedStartTime": null,
+        "actualStartTime": "",
+        "completedAt": "",
+        "court": {
+            "id": "1",
+            "name": "LIVESPORT ARENA"
+        },
+        "orderOfPlay": 6
+    },
+    "winner": "",
+    "winnerPlayerId": "",
+    "winnerPartnerId": "",
+    "liveScore": null,
+    "liveStatus": null,
+    "winnerTeam": null,
+    "winnerReason": null
+}
